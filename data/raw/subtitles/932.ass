@@ -1,0 +1,294 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+
+
+Dialogue: 0,0:00:11.51,0:00:15.63,On Top,,0000,0000,0000,,{\i1}One Dream One Wish{\i0}
+Dialogue: 0,0:00:11.51,0:00:15.63,Default,,0000,0000,0000,,{\i1}One Dream One Wish{\i0}
+Dialogue: 0,0:00:15.68,0:00:20.56,On Top,,0000,0000,0000,,{\i1}kanaetai nara Over The Top{\i0}
+Dialogue: 0,0:00:15.68,0:00:20.56,Default,,0000,0000,0000,,{\i1}If you want to make it come true, Over The Top{\i0}
+Dialogue: 0,0:00:25.69,0:00:28.23,On Top,,0000,0000,0000,,ONE PIECE - LAND OF WANO ARC
+Dialogue: 0,0:00:36.49,0:00:40.12,On Top,,0000,0000,0000,,{\i1}mitakoto mo nai sekai mezashi{\i0}
+Dialogue: 0,0:00:36.49,0:00:40.12,Default,,0000,0000,0000,,{\i1}Setting out into the unknown world{\i0}
+Dialogue: 0,0:00:41.20,0:00:45.29,On Top,,0000,0000,0000,,{\i1}araburu namikaze koete{\i0}
+Dialogue: 0,0:00:41.20,0:00:45.29,Default,,0000,0000,0000,,{\i1}Weathering rough wind and waves{\i0}
+Dialogue: 0,0:00:45.33,0:00:50.00,On Top,,0000,0000,0000,,{\i1}tsukisusumanakya dame sa ichibannori shitain da{\i0}
+Dialogue: 0,0:00:45.33,0:00:50.00,Default,,0000,0000,0000,,{\i1}I have to keep going because I want to get there first{\i0}
+Dialogue: 0,0:00:50.04,0:00:56.26,On Top,,0000,0000,0000,,{\i1}shinpai toka atomawashi douse shoubu ichika bachika{\i0}
+Dialogue: 0,0:00:50.04,0:00:56.26,Default,,0000,0000,0000,,{\i1}Worry later since it's all sink or swim anyway{\i0}
+Dialogue: 0,0:00:58.39,0:01:02.81,On Top,,0000,0000,0000,,{\i1}aite ga dekaku mietara{\i0}
+Dialogue: 0,0:00:58.39,0:01:02.81,Default,,0000,0000,0000,,{\i1}When your opponent looks daunting{\i0}
+Dialogue: 0,0:01:02.85,0:01:07.90,On Top,,0000,0000,0000,,{\i1}kokoro ga chijinderu shouko{\i0}
+Dialogue: 0,0:01:02.85,0:01:07.90,Default,,0000,0000,0000,,{\i1}It's a sign that your heart is shrinking{\i0}
+Dialogue: 0,0:01:08.35,0:01:10.44,On Top,,0000,0000,0000,,{\i1}nigeru nante choisu wa nai{\i0}
+Dialogue: 0,0:01:08.35,0:01:10.44,Default,,0000,0000,0000,,{\i1}Running away is not a choice{\i0}
+Dialogue: 0,0:01:10.48,0:01:12.57,On Top,,0000,0000,0000,,{\i1}ippo soba e chikadukun da{\i0}
+Dialogue: 0,0:01:10.48,0:01:12.57,Default,,0000,0000,0000,,{\i1}Take one step closer{\i0}
+Dialogue: 0,0:01:12.61,0:01:15.07,On Top,,0000,0000,0000,,{\i1}namaiki tte homekotoba?{\i0}
+Dialogue: 0,0:01:12.61,0:01:15.07,Default,,0000,0000,0000,,{\i1}Being called insolent's a compliment, right?{\i0}
+Dialogue: 0,0:01:15.07,0:01:19.41,On Top,,0000,0000,0000,,{\i1}kitsui toki hodo warattoke{\i0}
+Dialogue: 0,0:01:15.07,0:01:19.41,Default,,0000,0000,0000,,{\i1}When things become tough, that's when you should laugh{\i0}
+Dialogue: 0,0:01:20.95,0:01:25.37,On Top,,0000,0000,0000,,{\i1}atarashii ashita sagashi ni ikitai no nara{\i0}
+Dialogue: 0,0:01:20.95,0:01:25.37,Default,,0000,0000,0000,,{\i1}If you want to look for a new tomorrow{\i0}
+Dialogue: 0,0:01:25.41,0:01:30.63,On Top,,0000,0000,0000,,{\i1}tobikkiri no jishin wo migaite{\i0}
+Dialogue: 0,0:01:25.41,0:01:30.63,Default,,0000,0000,0000,,{\i1}Polish your unique confidence{\i0}
+Dialogue: 0,0:01:30.67,0:01:35.17,On Top,,0000,0000,0000,,{\i1}tabi wo shita ashiato ga{\i0}
+Dialogue: 0,0:01:30.67,0:01:35.17,Default,,0000,0000,0000,,{\i1}Until your footsteps{\i0}
+Dialogue: 0,0:01:35.21,0:01:38.84,On Top,,0000,0000,0000,,{\i1}sou! chizu ni kawaru made{\i0}
+Dialogue: 0,0:01:35.21,0:01:38.84,Default,,0000,0000,0000,,{\i1}Yes! Become a map{\i0}
+Dialogue: 0,0:01:38.88,0:01:43.39,On Top,,0000,0000,0000,,{\i1}atarashii Horizon hora susunde kita bun{\i0}
+Dialogue: 0,0:01:38.88,0:01:43.39,Default,,0000,0000,0000,,{\i1}A new horizon, look, how far you've come{\i0}
+Dialogue: 0,0:01:43.43,0:01:48.44,On Top,,0000,0000,0000,,{\i1}mabushisa to nanido ga joushou{\i0}
+Dialogue: 0,0:01:43.43,0:01:48.44,Default,,0000,0000,0000,,{\i1}It's brighter and the level of difficulty rises{\i0}
+Dialogue: 0,0:01:48.81,0:01:53.15,On Top,,0000,0000,0000,,{\i1}yumeutsutsu de okose Hurricane{\i0}
+Dialogue: 0,0:01:48.81,0:01:53.15,Default,,0000,0000,0000,,{\i1}Live in your dream and raise a hurricane{\i0}
+Dialogue: 0,0:01:53.19,0:01:57.99,On Top,,0000,0000,0000,,{\i1}saa! chaato kakimidase{\i0}
+Dialogue: 0,0:01:53.19,0:01:57.99,Default,,0000,0000,0000,,{\i1}Now! Stir up the rankings{\i0}
+Dialogue: 0,0:01:58.03,0:02:02.28,On Top,,0000,0000,0000,,{\i1}One Dream One Wish{\i0}
+Dialogue: 0,0:01:58.03,0:02:02.28,Default,,0000,0000,0000,,{\i1}One Dream One Wish{\i0}
+Dialogue: 0,0:02:02.32,0:02:06.79,On Top,,0000,0000,0000,,{\i1}yume wa nigenai... zenbu Knock out{\i0}
+Dialogue: 0,0:02:02.32,0:02:06.79,Default,,0000,0000,0000,,{\i1}Dreams don't run away... Knock everything out{\i0}
+Dialogue: 0,0:02:07.16,0:02:09.16,On Top,,0000,0000,0000,,{\i1}Over The Top{\i0}
+Dialogue: 0,0:02:07.16,0:02:09.16,Default,,0000,0000,0000,,{\i1}Over The Top{\i0}
+Dialogue: 0,0:02:10.67,0:02:11.58,On Top,,0000,0000,0000,,BATH
+Dialogue: 0,0:02:11.58,0:02:12.50,On Top,,0000,0000,0000,,BATHHOUSE
+Dialogue: 0,0:02:18.88,0:02:22.65,Default,,0000,0000,0000,,That's true.\NIf Boss Hyogoro the Flower were here,
+Dialogue: 0,0:02:22.65,0:02:25.10,Default,,0000,0000,0000,,he could've united the samurai at once.
+Dialogue: 0,0:02:25.10,0:02:28.52,Default,,0000,0000,0000,,Hmm... Is he that great?
+Dialogue: 0,0:02:28.52,0:02:29.63,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:02:32.35,0:02:36.41,Default,,0000,0000,0000,,He was the most influential man behind the scenes\Nin the Land of Wano 20 years ago,
+Dialogue: 0,0:02:36.41,0:02:40.15,Default,,0000,0000,0000,,and the great boss who had complete control\Nover the Flower Capital underworld.
+Dialogue: 0,0:02:40.61,0:02:44.17,Default,,0000,0000,0000,,He was also trusted by\Nthe bosses of the other five regions,
+Dialogue: 0,0:02:44.17,0:02:45.92,Default,,0000,0000,0000,,and nice even to commoners.
+Dialogue: 0,0:02:45.92,0:02:50.41,Default,,0000,0000,0000,,He was a real chivalrous yakuza\Nwho had both power and magnetism.
+Dialogue: 0,0:02:50.41,0:02:53.08,Default,,0000,0000,0000,,Here we go!
+Dialogue: 0,0:03:14.61,0:03:17.66,Default,,0000,0000,0000,,It's Queen-{\i1}sama{\i0}'s Special Device Performance!
+Dialogue: 0,0:03:17.66,0:03:21.74,Default,,0000,0000,0000,,The Sumo Inferno!
+Dialogue: 0,0:03:26.16,0:03:29.08,Default,,0000,0000,0000,,Queen! Queen! Queen!
+Dialogue: 0,0:03:29.58,0:03:31.10,Default,,0000,0000,0000,,Queen!
+Dialogue: 0,0:03:31.10,0:03:36.04,Default,,0000,0000,0000,,You'll be fine as long as you keep winning\Nsumo matches!
+Dialogue: 0,0:03:36.04,0:03:38.51,Default,,0000,0000,0000,,But stepping out of the ring means instant death!
+Dialogue: 0,0:03:38.51,0:03:43.76,Default,,0000,0000,0000,,You guys are a tag team!\NIf both of you fall out of the ring, the execution is complete!
+Dialogue: 0,0:03:43.76,0:03:48.32,Default,,0000,0000,0000,,But if you ever change your mind\Nand wanna join our group,
+Dialogue: 0,0:03:48.32,0:03:50.77,Default,,0000,0000,0000,,only Straw Hat will be released!
+Dialogue: 0,0:03:50.77,0:03:52.40,Default,,0000,0000,0000,,Wait a minute!
+Dialogue: 0,0:03:52.40,0:03:56.53,Default,,0000,0000,0000,,If we fight as a tag team,\NI'll give Straw Hat-{\i1}san{\i0} trouble!
+Dialogue: 0,0:03:56.53,0:03:59.21,Default,,0000,0000,0000,,Could you at least execute us separately?!
+Dialogue: 0,0:03:59.21,0:04:00.86,Default,,0000,0000,0000,,Hey, Balloon!
+Dialogue: 0,0:04:01.78,0:04:02.74,Default,,0000,0000,0000,,Balloon?!
+Dialogue: 0,0:04:03.40,0:04:05.17,Default,,0000,0000,0000,,Straw Hat-{\i1}san{\i0}!
+Dialogue: 0,0:04:05.17,0:04:07.96,Default,,0000,0000,0000,,If I kick your ass...
+Dialogue: 0,0:04:07.96,0:04:10.37,Default,,0000,0000,0000,,will you let us out of here?!
+Dialogue: 0,0:04:13.71,0:04:15.33,Default,,0000,0000,0000,,What did you say?!
+Dialogue: 0,0:04:21.80,0:04:27.47,Default,,0000,0000,0000,,{\i1}"Dead or Alive!\NQueen's Sumo Inferno!"{\i0}
+Dialogue: 0,0:04:49.28,0:04:53.20,Default,,0000,0000,0000,,My stomach hurts!\NHe said he's gonna kick my ass!
+Dialogue: 0,0:05:05.05,0:05:08.68,Default,,0000,0000,0000,,You crack me up.
+Dialogue: 0,0:05:21.02,0:05:24.40,Default,,0000,0000,0000,,Queen-{\i1}sama{\i0}! He'll understand once it starts!
+Dialogue: 0,0:05:26.15,0:05:30.22,Default,,0000,0000,0000,,He doesn't realize how unreasonable its rules are!
+Dialogue: 0,0:05:30.22,0:05:34.08,Default,,0000,0000,0000,,He has no idea that\Nhe's got no chance to survive!
+Dialogue: 0,0:05:35.95,0:05:37.68,Default,,0000,0000,0000,,You're right!
+Dialogue: 0,0:05:37.68,0:05:42.09,Default,,0000,0000,0000,,Then, get ready and enter the ring, guys!
+Dialogue: 0,0:05:55.43,0:05:58.35,Default,,0000,0000,0000,,Deathmatch! Deathmatch!
+Dialogue: 0,0:05:58.69,0:06:01.92,Default,,0000,0000,0000,,Deathmatch! Deathmatch!
+Dialogue: 0,0:06:01.92,0:06:03.81,Default,,0000,0000,0000,,Deathmatch!
+Dialogue: 0,0:06:03.81,0:06:05.98,Default,,0000,0000,0000,,Th-There are too many of them...
+Dialogue: 0,0:06:07.28,0:06:10.47,Default,,0000,0000,0000,,On top of that, all of us have weapons.
+Dialogue: 0,0:06:10.47,0:06:12.37,Default,,0000,0000,0000,,You guys are unarmed!
+Dialogue: 0,0:06:14.08,0:06:18.89,Default,,0000,0000,0000,,Now do you realize that you're gonna die soon?!
+Dialogue: 0,0:06:18.89,0:06:21.75,Default,,0000,0000,0000,,Deathmatch! Deathmatch!
+Dialogue: 0,0:06:22.13,0:06:25.42,Default,,0000,0000,0000,,Deathmatch! Deathmatch!
+Dialogue: 0,0:06:25.42,0:06:26.76,Default,,0000,0000,0000,,Deathmatch!
+Dialogue: 0,0:06:27.26,0:06:31.97,Default,,0000,0000,0000,,{\i1}Rest in peace... Old Man Hyo... Straw Hat...{\i0}
+Dialogue: 0,0:06:32.68,0:06:35.35,Default,,0000,0000,0000,,Lock eyes with your opponents!
+Dialogue: 0,0:06:36.81,0:06:38.64,Default,,0000,0000,0000,,Don't look away!
+Dialogue: 0,0:06:43.36,0:06:49.36,Default,,0000,0000,0000,,Observe what happens to those\Nwho disobey us in this place!
+Dialogue: 0,0:06:53.95,0:06:55.91,Default,,0000,0000,0000,,Ready...
+Dialogue: 0,0:06:58.79,0:07:02.17,Default,,0000,0000,0000,,I'm sorry, straw hat man...
+Dialogue: 0,0:07:02.50,0:07:04.71,Default,,0000,0000,0000,,I put you through this...
+Dialogue: 0,0:07:06.00,0:07:07.46,Default,,0000,0000,0000,,Stay close to me.
+Dialogue: 0,0:07:08.84,0:07:10.47,Default,,0000,0000,0000,,Go!
+Dialogue: 0,0:07:12.26,0:07:15.39,Default,,0000,0000,0000,,Watch this, damn prisoners!
+Dialogue: 0,0:07:15.80,0:07:19.10,Default,,0000,0000,0000,,This is what'll happen to you\Nif you disobey guards!
+Dialogue: 0,0:07:40.20,0:07:43.92,Default,,0000,0000,0000,,Who's next?!\NThey're not even a good enough warm up!
+Dialogue: 0,0:07:47.34,0:07:50.11,Default,,0000,0000,0000,,Whaaat?!
+Dialogue: 0,0:07:50.11,0:07:52.30,Default,,0000,0000,0000,,Don't tell me he's...
+Dialogue: 0,0:07:57.43,0:08:00.56,Default,,0000,0000,0000,,So he uses the Color of the Supreme King...
+Dialogue: 0,0:08:03.98,0:08:05.06,Default,,0000,0000,0000,,You...
+Dialogue: 0,0:08:09.40,0:08:11.99,Default,,0000,0000,0000,,I guess this is gonna be interesting...
+Dialogue: 0,0:08:12.32,0:08:15.78,Default,,0000,0000,0000,,Pleasures, enter the ring!
+Dialogue: 0,0:08:27.54,0:08:30.67,Default,,0000,0000,0000,,It's been uproarious since he came...
+Dialogue: 0,0:08:34.13,0:08:38.26,Default,,0000,0000,0000,,In any case, don't let Boss Hyogoro die.
+Dialogue: 0,0:08:42.89,0:08:45.19,Default,,0000,0000,0000,,I'm counting on you, Luffytaro.
+Dialogue: 0,0:08:59.03,0:09:01.08,Default,,0000,0000,0000,,I feel refreshed!
+Dialogue: 0,0:09:01.08,0:09:05.04,On Top,,0000,0000,0000,,A BATHHOUSE, FLOWER CAPITAL
+Dialogue: 0,0:09:05.33,0:09:07.50,Default,,0000,0000,0000,,We can have tea upstairs.
+Dialogue: 0,0:09:08.25,0:09:09.63,Default,,0000,0000,0000,,Let's go see then.
+Dialogue: 0,0:09:12.38,0:09:13.42,Default,,0000,0000,0000,,It's a raid!
+Dialogue: 0,0:09:19.72,0:09:23.89,Default,,0000,0000,0000,,A Headliner of the Animal Kingdom Pirates - Hawkins!
+Dialogue: 0,0:09:23.89,0:09:25.81,Default,,0000,0000,0000,,Nobody move!
+Dialogue: 0,0:09:26.77,0:09:29.98,Default,,0000,0000,0000,,What do you want from a bathhouse?
+Dialogue: 0,0:09:30.44,0:09:33.08,Default,,0000,0000,0000,,Oh, a bathhouse is perfect for this
+Dialogue: 0,0:09:33.08,0:09:36.65,Default,,0000,0000,0000,,because everyone's naked\Nand we can see everything.
+Dialogue: 0,0:09:37.57,0:09:41.22,Default,,0000,0000,0000,,Drake, what are you doing? Get inside.
+Dialogue: 0,0:09:41.22,0:09:45.79,Default,,0000,0000,0000,,My duty is to take down the fool\Ncalled Soba Mask.
+Dialogue: 0,0:09:46.79,0:09:49.50,Default,,0000,0000,0000,,Take care of those chores by yourselves.
+Dialogue: 0,0:09:51.63,0:09:56.32,Default,,0000,0000,0000,,What should we do, Shinobu-{\i1}chan{\i0}?!\NI think they know about us.
+Dialogue: 0,0:09:56.32,0:09:58.28,Default,,0000,0000,0000,,They came for us.
+Dialogue: 0,0:09:58.28,0:10:01.41,Default,,0000,0000,0000,,It's no fair!\NPeople are defenseless here!
+Dialogue: 0,0:10:01.41,0:10:02.91,Default,,0000,0000,0000,,Shall we fight?
+Dialogue: 0,0:10:02.91,0:10:05.02,Default,,0000,0000,0000,,That's the last resort.
+Dialogue: 0,0:10:05.35,0:10:09.48,Default,,0000,0000,0000,,Mature women don't use weapons carelessly...
+Dialogue: 0,0:10:10.35,0:10:12.52,Default,,0000,0000,0000,,Hide behind me.
+Dialogue: 0,0:10:14.36,0:10:19.36,Default,,0000,0000,0000,,It's time to show\Nthe power of the enticing sexy body!
+Dialogue: 0,0:10:21.99,0:10:25.26,Default,,0000,0000,0000,,Everyone, line up\Nand show us your ankles!
+Dialogue: 0,0:10:25.26,0:10:26.12,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:10:26.12,0:10:30.79,Default,,0000,0000,0000,,If you have a Reversed Crescent Moon\Ntattooed on your ankle, we need you to come with us!
+Dialogue: 0,0:10:34.80,0:10:38.38,Default,,0000,0000,0000,,All of those people who are in the tub\Nmust come out, too!
+Dialogue: 0,0:10:38.97,0:10:42.03,Default,,0000,0000,0000,,I can't believe it.\NHow does he know?!
+Dialogue: 0,0:10:42.03,0:10:44.35,Default,,0000,0000,0000,,--Go check.\N--Yes, sir!
+Dialogue: 0,0:10:44.93,0:10:47.47,Default,,0000,0000,0000,,{\i1}Was the plan leaked?{\i0}
+Dialogue: 0,0:10:57.28,0:10:58.90,Default,,0000,0000,0000,,Someone's hiding there!
+Dialogue: 0,0:11:02.78,0:11:03.87,Default,,0000,0000,0000,,Come out!
+Dialogue: 0,0:11:06.37,0:11:08.95,Default,,0000,0000,0000,,{\i1}Nami! I'll back you up if something happens.{\i0}
+Dialogue: 0,0:11:12.00,0:11:15.34,Default,,0000,0000,0000,,No, I didn't mean to hide!
+Dialogue: 0,0:11:15.34,0:11:17.63,Default,,0000,0000,0000,,I'm just an ordinary customer...
+Dialogue: 0,0:11:18.01,0:11:19.05,Default,,0000,0000,0000,,You are...!
+Dialogue: 0,0:11:47.66,0:11:50.87,Default,,0000,0000,0000,,--Dynamite!\N--Oh, my! That body is a national treasure!
+Dialogue: 0,0:11:55.04,0:11:56.46,Default,,0000,0000,0000,,How deadly!
+Dialogue: 0,0:11:57.50,0:11:59.42,Default,,0000,0000,0000,,I can't believe it!
+Dialogue: 0,0:12:01.05,0:12:03.01,Default,,0000,0000,0000,,That's very powerful, Nami-{\i1}san{\i0}!
+Dialogue: 0,0:12:03.80,0:12:06.66,Default,,0000,0000,0000,,Happy punch!
+Dialogue: 0,0:12:06.66,0:12:08.06,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:12:11.23,0:12:13.69,Default,,0000,0000,0000,,What the...\NHe's the guy from yesterday.
+Dialogue: 0,0:12:13.69,0:12:16.11,Default,,0000,0000,0000,,Soba Mask!
+Dialogue: 0,0:12:17.02,0:12:18.57,Default,,0000,0000,0000,,Nami-{\i1}sa{\i0}...
+Dialogue: 0,0:12:18.57,0:12:23.86,Default,,0000,0000,0000,,The shape of Nami-{\i1}san{\i0}'s body\Nwas like a magnificent mighty river flowing...
+Dialogue: 0,0:12:26.32,0:12:28.68,Default,,0000,0000,0000,,Sanji! Why is he here?!
+Dialogue: 0,0:12:28.68,0:12:31.16,Default,,0000,0000,0000,,What is he wearing?!\NYou've got to be kidding!
+Dialogue: 0,0:12:31.16,0:12:32.37,Default,,0000,0000,0000,,Drake!
+Dialogue: 0,0:12:32.91,0:12:34.43,Default,,0000,0000,0000,,Soba Mask?!
+Dialogue: 0,0:12:34.43,0:12:36.54,Default,,0000,0000,0000,,He was inside all along!
+Dialogue: 0,0:12:37.17,0:12:38.96,Default,,0000,0000,0000,,Hey! Where is Soba Mask?!
+Dialogue: 0,0:12:38.96,0:12:40.13,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:12:42.55,0:12:43.80,Default,,0000,0000,0000,,Where...
+Dialogue: 0,0:12:49.05,0:12:52.22,Default,,0000,0000,0000,,Why didn't you tell me that\Nyou're sensitive to naked women?!
+Dialogue: 0,0:12:52.89,0:12:54.81,Default,,0000,0000,0000,,I'm not...
+Dialogue: 0,0:12:57.52,0:13:01.54,Default,,0000,0000,0000,,Drake...\NYou're from the North Blue, aren't you?
+Dialogue: 0,0:13:01.54,0:13:04.57,Default,,0000,0000,0000,,So are you... Why are you asking?
+Dialogue: 0,0:13:05.78,0:13:08.41,Default,,0000,0000,0000,,Then you know him, don't you?
+Dialogue: 0,0:13:21.25,0:13:23.17,Default,,0000,0000,0000,,Germa 66's...
+Dialogue: 0,0:13:23.17,0:13:25.30,Default,,0000,0000,0000,,...Stealth Black!
+Dialogue: 0,0:13:57.46,0:14:03.50,Default,,0000,0000,0000,,Everyone from the North Blue knows\Nthe story of Sora, Warrior of the Sea...
+Dialogue: 0,0:14:05.38,0:14:08.72,Default,,0000,0000,0000,,Germa... Is he the real thing?
+Dialogue: 0,0:14:18.35,0:14:19.69,Default,,0000,0000,0000,,Stop running!
+Dialogue: 0,0:14:19.98,0:14:22.50,Default,,0000,0000,0000,,The search is not over...
+Dialogue: 0,0:14:22.50,0:14:25.03,Default,,0000,0000,0000,,This is our chance to escape!
+Dialogue: 0,0:14:25.03,0:14:26.78,Default,,0000,0000,0000,,I won't let you!
+Dialogue: 0,0:14:33.78,0:14:36.91,Default,,0000,0000,0000,,You bastard!\NYou can't attack women!
+Dialogue: 0,0:14:41.88,0:14:43.17,Default,,0000,0000,0000,,An acceleration device?!
+Dialogue: 0,0:14:54.26,0:14:55.85,Default,,0000,0000,0000,,Even a flotation device...
+Dialogue: 0,0:14:56.93,0:14:58.64,Default,,0000,0000,0000,,Stealth Black!
+Dialogue: 0,0:14:58.98,0:15:03.07,Default,,0000,0000,0000,,You're a member of the evil army.\NWhy are you helping people?!
+Dialogue: 0,0:15:03.07,0:15:04.44,Default,,0000,0000,0000,,Stealth Black!
+Dialogue: 0,0:15:04.44,0:15:06.37,Default,,0000,0000,0000,,Don't call me that!
+Dialogue: 0,0:15:06.37,0:15:08.19,Default,,0000,0000,0000,,I'm Soba Mask!
+Dialogue: 0,0:15:11.57,0:15:15.08,Default,,0000,0000,0000,,You're Germa. Cut the crap!
+Dialogue: 0,0:15:20.96,0:15:23.46,Default,,0000,0000,0000,,Go to hell, Germa 66!
+Dialogue: 0,0:15:25.38,0:15:26.71,Default,,0000,0000,0000,,Soba Mask!
+Dialogue: 0,0:15:28.84,0:15:31.30,Default,,0000,0000,0000,,Is it Stealth Black's transmission device?!
+Dialogue: 0,0:15:32.30,0:15:34.18,Default,,0000,0000,0000,,Hang on tight!
+Dialogue: 0,0:15:37.43,0:15:40.10,Default,,0000,0000,0000,,--He's flying!\N--Chase him!
+Dialogue: 0,0:15:42.77,0:15:45.21,Default,,0000,0000,0000,,Only Stealth Black could've done it!
+Dialogue: 0,0:15:45.21,0:15:47.07,Default,,0000,0000,0000,,I'll take him down next time!
+Dialogue: 0,0:15:48.78,0:15:50.71,Default,,0000,0000,0000,,Sanji-{\i1}kun{\i0}, what is this all about?!
+Dialogue: 0,0:15:50.71,0:15:53.78,Default,,0000,0000,0000,,It's a long story! I'll tell you later!
+Dialogue: 0,0:15:55.24,0:15:57.41,Default,,0000,0000,0000,,Aren't you losing too much blood?
+Dialogue: 0,0:15:57.41,0:16:00.08,Default,,0000,0000,0000,,I could die happy right now!
+Dialogue: 0,0:16:00.41,0:16:03.87,Default,,0000,0000,0000,,Let's get to Ebisu Town!\NUsopp and the others will be there!
+Dialogue: 0,0:16:05.17,0:16:06.94,Default,,0000,0000,0000,,You're not okay, are you?!
+Dialogue: 0,0:16:06.94,0:16:08.75,Default,,0000,0000,0000,,It's not a big deal...
+Dialogue: 0,0:16:09.13,0:16:13.32,Default,,0000,0000,0000,,Anyway, it's not a good thing\Nthat they know about the ankle tattoo!
+Dialogue: 0,0:16:13.32,0:16:16.99,Default,,0000,0000,0000,,Yeah, I wonder how they found that out...
+Dialogue: 0,0:16:16.99,0:16:21.56,Default,,0000,0000,0000,,Before I went to the bathhouse,\NI heard more bad news.
+Dialogue: 0,0:16:22.81,0:16:24.77,Default,,0000,0000,0000,,Bepo and the others were captured!
+Dialogue: 0,0:16:24.77,0:16:25.65,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:16:26.23,0:16:32.05,Default,,0000,0000,0000,,The Animal Kingdom Pirates are looking to\Nlure Tra-guy using his friends as bait.
+Dialogue: 0,0:16:32.05,0:16:34.51,Default,,0000,0000,0000,,I'm sure he'll go rescue them.
+Dialogue: 0,0:16:34.51,0:16:37.78,Default,,0000,0000,0000,,He may not look it, but he cares about his friends.
+Dialogue: 0,0:16:38.91,0:16:41.08,Default,,0000,0000,0000,,We must stop him for now!
+Dialogue: 0,0:16:41.08,0:16:44.29,Default,,0000,0000,0000,,Or the Flower Capital will be in chaos!
+Dialogue: 0,0:16:44.67,0:16:47.96,Default,,0000,0000,0000,,What were you doing at such a serious time?
+Dialogue: 0,0:16:49.96,0:16:51.30,Default,,0000,0000,0000,,Go!
+Dialogue: 0,0:17:01.31,0:17:05.69,Default,,0000,0000,0000,,--What are you waiting for?!\N--I wanna see Straw Hat's blood splattered already!
+Dialogue: 0,0:17:08.15,0:17:10.32,Default,,0000,0000,0000,,What's wrong with him?
+Dialogue: 0,0:17:17.49,0:17:21.62,Default,,0000,0000,0000,,Since I had the Sea Prism Stone cuffs on for so long,\NI feel so much lighter!
+Dialogue: 0,0:17:23.33,0:17:25.30,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:17:25.30,0:17:28.42,Default,,0000,0000,0000,,...Jet Gatling!
+Dialogue: 0,0:17:31.55,0:17:33.71,Default,,0000,0000,0000,,My technique got stronger, too!
+Dialogue: 0,0:17:36.01,0:17:38.26,Default,,0000,0000,0000,,I'm not getting tired at all!
+Dialogue: 0,0:17:40.26,0:17:42.72,Default,,0000,0000,0000,,Let's get rid of the old man first!
+Dialogue: 0,0:17:42.72,0:17:44.68,Default,,0000,0000,0000,,Go to hell!
+Dialogue: 0,0:17:51.73,0:17:53.32,Default,,0000,0000,0000,,Straw hat man...
+Dialogue: 0,0:17:53.32,0:17:57.15,Default,,0000,0000,0000,,I'm sorry to give you so much trouble...
+Dialogue: 0,0:17:58.99,0:18:03.33,Default,,0000,0000,0000,,Please pay no mind to a dotard like me\Nand fight with all your might!
+Dialogue: 0,0:18:04.83,0:18:07.08,Default,,0000,0000,0000,,Fighting with all my might isn't enough.
+Dialogue: 0,0:18:07.08,0:18:08.08,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:18:09.54,0:18:13.96,Default,,0000,0000,0000,,I feel like I still need something more...
+Dialogue: 0,0:18:22.64,0:18:23.93,Default,,0000,0000,0000,,No...
+Dialogue: 0,0:18:29.98,0:18:32.23,Default,,0000,0000,0000,,No... This isn't good enough...
+Dialogue: 0,0:18:37.49,0:18:38.82,Default,,0000,0000,0000,,He's still...
+Dialogue: 0,0:18:40.20,0:18:43.41,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:18:47.79,0:18:50.54,Default,,0000,0000,0000,,...Kong Organ Gun!
+Dialogue: 0,0:19:24.83,0:19:28.54,Default,,0000,0000,0000,,Thunder Bagua!
+Dialogue: 0,0:20:01.74,0:20:03.24,Default,,0000,0000,0000,,...out of my reach!
+Dialogue: 0,0:20:21.51,0:20:22.80,Default,,0000,0000,0000,,Oh, yeah!
+Dialogue: 0,0:20:23.63,0:20:25.39,Default,,0000,0000,0000,,That's it!
+Dialogue: 0,0:20:27.76,0:20:32.73,On Top,,0000,0000,0000,,LAND OF WANO
+Dialogue: 0,0:20:33.27,0:20:37.69,Default,,0000,0000,0000,,{\i1}Meanwhile, in Ringo\Non the east side of the Land of Wano...{\i0}
+Dialogue: 0,0:20:37.69,0:20:42.65,On Top,,0000,0000,0000,,RINGO, LAND OF WANO
+Dialogue: 0,0:21:14.35,0:21:17.94,Default,,0000,0000,0000,,I will help myself to that weapon!
+Dialogue: 0,0:21:26.53,0:21:29.41,Default,,0000,0000,0000,,I still have to collect more...
+Dialogue: 0,0:21:42.96,0:21:44.34,Default,,0000,0000,0000,,There you are.
+Dialogue: 0,0:21:45.17,0:21:49.80,Default,,0000,0000,0000,,You stole my sword, didn't you?
+Dialogue: 0,0:21:50.89,0:21:54.68,Default,,0000,0000,0000,,It is not your sword...
+Dialogue: 0,0:21:58.06,0:22:03.33,Default,,0000,0000,0000,,I've already taken the great sword - Shusui\Nback to where it belongs.
+Dialogue: 0,0:22:03.33,0:22:06.90,Default,,0000,0000,0000,,That is a treasure which was stolen from the
+Dialogue: 0,0:22:06.90,0:22:09.95,Default,,0000,0000,0000,,legendary samurai of the Land of Wano - Ryuma's grave!
+Dialogue: 0,0:22:10.66,0:22:12.03,Default,,0000,0000,0000,,I know!
+Dialogue: 0,0:22:12.83,0:22:16.04,Default,,0000,0000,0000,,Then, shut up and go away!
+Dialogue: 0,0:22:18.50,0:22:24.17,Default,,0000,0000,0000,,Otherwise, I will swipe those two swords\Non your waist, too!
+Dialogue: 0,0:22:25.55,0:22:27.51,Default,,0000,0000,0000,,Are you a weapon collector?
+Dialogue: 0,0:22:28.97,0:22:32.14,Default,,0000,0000,0000,,What are you gonna do with all those?
+Dialogue: 0,0:22:33.72,0:22:37.52,Default,,0000,0000,0000,,We happen to need a lot of weapons, too,
+Dialogue: 0,0:22:37.52,0:22:39.73,Default,,0000,0000,0000,,so the timing is excellent...
+Dialogue: 0,0:22:42.06,0:22:44.19,Default,,0000,0000,0000,,Your weapon collection...
+Dialogue: 0,0:22:45.98,0:22:48.24,Default,,0000,0000,0000,,I'm gonna take the whole thing!
+Dialogue: 0,0:22:55.83,0:22:59.29,Default,,0000,0000,0000,,I will bring you down instead,\Nyou damn mountain bandit!
+Dialogue: 0,0:23:02.38,0:23:05.64,Default,,0000,0000,0000,,I'm sorry if I confused you.
+Dialogue: 0,0:23:05.64,0:23:07.26,Default,,0000,0000,0000,,I'm...
+Dialogue: 0,0:23:07.72,0:23:09.63,Default,,0000,0000,0000,,...a pirate!
+Dialogue: 0,0:23:18.39,0:23:23.56,Italics,,0000,0000,0000,,{\i1}Zoro and Gyukimaru get in a fierce sword fight over\Nthe great sword Shusui.{\i0}
+Dialogue: 0,0:23:23.73,0:23:28.75,Italics,,0000,0000,0000,,{\i1}During the severe fight,\NZoro comes to know the secret behind Shusui.{\i0}
+Dialogue: 0,0:23:28.75,0:23:32.91,Italics,,0000,0000,0000,,{\i1}However, at the same time, another assassin appears
+Dialogue: 0,0:23:32.91,0:23:35.81,Italics,,0000,0000,0000,,in a spray of snow as a new crisis hits Zoro!{\i0}
+Dialogue: 0,0:23:36.26,0:23:41.26,Default,,0000,0000,0000,,On the next episode of One Piece!\N"Gyukimaru! Zoro Fights a Duel on Bandit's Bridge"
+Dialogue: 0,0:23:41.26,0:23:44.46,Default,,0000,0000,0000,,I'm gonna become the King of the Pirates!
+Dialogue: 0,0:23:44.38,0:23:46.38,Default,,0000,0000,0000,,
+Dialogue: 0,0:23:46.38,0:23:48.38,On Top,,0000,0000,0000,,

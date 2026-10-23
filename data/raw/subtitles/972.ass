@@ -1,0 +1,265 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,1,1,15,0
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: On Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: DefaultLow,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:11.07,0:00:13.90,On Top,,0,0,0,,{\i1}mugendai no chizu hiroge{\i0}
+Dialogue: 0,0:00:11.07,0:00:13.90,Default,,0,0,0,,{\i1}Open the borderless map{\i0}
+Dialogue: 0,0:00:13.95,0:00:16.87,On Top,,0,0,0,,{\i1}hateshinai ano basho e{\i0}
+Dialogue: 0,0:00:13.95,0:00:16.87,Default,,0,0,0,,{\i1}Towards the place that has no end{\i0}
+Dialogue: 0,0:00:16.91,0:00:21.45,On Top,,0,0,0,,{\i1}Let's sail on takaku ho wo agete{\i0}
+Dialogue: 0,0:00:16.91,0:00:21.45,Default,,0,0,0,,{\i1}Let's sail on, raise high the sails{\i0}
+Dialogue: 0,0:00:21.50,0:00:24.21,On Top,,0,0,0,,{\i1}kaze ni nore{\i0}
+Dialogue: 0,0:00:21.50,0:00:24.21,Default,,0,0,0,,{\i1}Catch the wind{\i0}
+Dialogue: 0,0:00:29.84,0:00:33.72,On Top,,0,0,0,,{\i1}Don't give up kakugo kimetano nara{\i0}
+Dialogue: 0,0:00:29.84,0:00:33.72,Default,,0,0,0,,{\i1}Don't give up, if I'm determined{\i0}
+Dialogue: 0,0:00:33.76,0:00:36.97,On Top,,0,0,0,,{\i1}hikikaeshi wa shinai sa{\i0}
+Dialogue: 0,0:00:33.76,0:00:36.97,Default,,0,0,0,,{\i1}I'll never turn back{\i0}
+Dialogue: 0,0:00:37.01,0:00:40.26,On Top,,0,0,0,,{\i1}waraitobase aranami{\i0}
+Dialogue: 0,0:00:37.01,0:00:40.26,Default,,0,0,0,,{\i1}Laugh on through troubled waters{\i0}
+Dialogue: 0,0:00:40.51,0:00:45.06,On Top,,0,0,0,,{\i1}Shout it out kokoro kudakenai youni{\i0}
+Dialogue: 0,0:00:40.51,0:00:45.06,Default,,0,0,0,,{\i1}Shout it out, to save your spirit from breaking{\i0}
+Dialogue: 0,0:00:45.10,0:00:47.52,On Top,,0,0,0,,{\i1}nakama ga irun da{\i0}
+Dialogue: 0,0:00:45.10,0:00:47.52,Default,,0,0,0,,{\i1}Your friends are there for you{\i0}
+Dialogue: 0,0:00:47.56,0:00:53.94,On Top,,0,0,0,,{\i1}hora tsuyogari nante iranai itsudatte{\i0}
+Dialogue: 0,0:00:47.56,0:00:53.94,Default,,0,0,0,,{\i1}Hey, you don't ever need to act tough{\i0}
+Dialogue: 0,0:00:53.99,0:00:58.03,On Top,,0,0,0,,{\i1}yami ga hikisakou toshitemo{\i0}
+Dialogue: 0,0:00:53.99,0:00:58.03,Default,,0,0,0,,{\i1}Even when the darkness tries to tear you apart{\i0}
+Dialogue: 0,0:00:58.07,0:00:59.33,On Top,,0,0,0,,{\i1}hora Brave it out{\i0}
+Dialogue: 0,0:00:58.07,0:00:59.33,Default,,0,0,0,,{\i1}Come on, brave it out{\i0}
+Dialogue: 0,0:00:59.37,0:01:00.83,On Top,,0,0,0,,{\i1}daijoubu sa{\i0}
+Dialogue: 0,0:00:59.37,0:01:00.83,Default,,0,0,0,,{\i1}It's going to be all right{\i0}
+Dialogue: 0,0:01:00.87,0:01:04.54,On Top,,0,0,0,,{\i1}uchiyaburu saikyo no kizuna{\i0}
+Dialogue: 0,0:01:00.87,0:01:04.54,Default,,0,0,0,,{\i1}Strong bonds will break through{\i0}
+Dialogue: 0,0:01:04.58,0:01:07.29,On Top,,0,0,0,,{\i1}mugendai no chizu hiroge{\i0}
+Dialogue: 0,0:01:04.58,0:01:07.29,Default,,0,0,0,,{\i1}Open the borderless map{\i0}
+Dialogue: 0,0:01:07.33,0:01:10.50,On Top,,0,0,0,,{\i1}hateshinai ano basho e{\i0}
+Dialogue: 0,0:01:07.33,0:01:10.50,Default,,0,0,0,,{\i1}Towards the place that has no end{\i0}
+Dialogue: 0,0:01:10.54,0:01:15.92,On Top,,0,0,0,,{\i1}fumidase yuuki no ippo{\i0}
+Dialogue: 0,0:01:10.54,0:01:15.92,Default,,0,0,0,,{\i1}Have the courage to take a step forward{\i0}
+Dialogue: 0,0:01:15.97,0:01:18.72,On Top,,0,0,0,,{\i1}mugendai no chizu hiroge{\i0}
+Dialogue: 0,0:01:15.97,0:01:18.72,Default,,0,0,0,,{\i1}Open the borderless map{\i0}
+Dialogue: 0,0:01:18.76,0:01:21.43,On Top,,0,0,0,,{\i1}chikai atsumeta hata{\i0}
+Dialogue: 0,0:01:18.76,0:01:21.43,Default,,0,0,0,,{\i1}The flag that called forth oaths{\i0}
+Dialogue: 0,0:01:21.47,0:01:24.18,On Top,,0,0,0,,{\i1}tatakai tsudukete iku{\i0}
+Dialogue: 0,0:01:21.47,0:01:24.18,Default,,0,0,0,,{\i1}Keep fighting on{\i0}
+Dialogue: 0,0:01:24.22,0:01:28.94,On Top,,0,0,0,,{\i1}"jibunjishin" tsuranuke{\i0}
+Dialogue: 0,0:01:24.22,0:01:28.94,Default,,0,0,0,,{\i1}Stay true to yourself{\i0}
+Dialogue: 0,0:01:28.98,0:01:33.28,On Top,,0,0,0,,{\i1}tsukami toru Dreamin' on{\i0}
+Dialogue: 0,0:01:28.98,0:01:33.28,Default,,0,0,0,,{\i1}Seize it, dreamin' on{\i0}
+Dialogue: 0,0:01:33.69,0:01:38.66,On Top,,0,0,0,,{\i1}makerarenai nige ya shinai{\i0}
+Dialogue: 0,0:01:33.69,0:01:38.66,Default,,0,0,0,,{\i1}I can't lose, I'll never run away{\i0}
+Dialogue: 0,0:01:39.32,0:01:42.16,On Top,,0,0,0,,{\i1}deai wakare koe ikou{\i0}
+Dialogue: 0,0:01:39.32,0:01:42.16,Default,,0,0,0,,{\i1}Transcend meetings and partings and keep going{\i0}
+Dialogue: 0,0:01:42.20,0:01:46.50,On Top,,0,0,0,,{\i1}zenbu takaramono{\i0}
+Dialogue: 0,0:01:42.20,0:01:46.50,Default,,0,0,0,,{\i1}They're all treasures{\i0}
+Dialogue: 0,0:01:46.91,0:01:49.71,On Top,,0,0,0,,{\i1}mugendai no chizu hiroge{\i0}
+Dialogue: 0,0:01:46.91,0:01:49.71,Default,,0,0,0,,{\i1}Open the borderless map{\i0}
+Dialogue: 0,0:01:49.75,0:01:52.84,On Top,,0,0,0,,{\i1}hateshinai ano basho e{\i0}
+Dialogue: 0,0:01:49.75,0:01:52.84,Default,,0,0,0,,{\i1}Towards the place that has no end{\i0}
+Dialogue: 0,0:01:52.88,0:01:57.55,On Top,,0,0,0,,{\i1}fumidase yuuki no ippo{\i0}
+Dialogue: 0,0:01:52.88,0:01:57.55,Default,,0,0,0,,{\i1}Have the courage to take a step forward{\i0}
+Dialogue: 0,0:01:57.59,0:02:01.72,On Top,,0,0,0,,{\i1}ko wo agete{\i0}
+Dialogue: 0,0:01:57.59,0:02:01.72,Default,,0,0,0,,{\i1}Raise your fist{\i0}
+Dialogue: 0,0:02:13.94,0:02:15.73,Default,,0,0,0,,Orochi...
+Dialogue: 0,0:02:16.65,0:02:18.50,Default,,0,0,0,,...and Kaido...
+Dialogue: 0,0:02:18.50,0:02:19.70,Default,,0,0,0,,Let's get them!
+Dialogue: 0,0:02:20.41,0:02:25.29,Default,,0,0,0,,We have been waiting for you to say that\Nall this time!
+Dialogue: 0,0:02:29.21,0:02:31.33,Default,,0,0,0,,On that day, five years ago,
+Dialogue: 0,0:02:31.33,0:02:34.29,Default,,0,0,0,,I made a promise with you two...
+Dialogue: 0,0:02:35.63,0:02:40.68,Default,,0,0,0,,That was all a lie, wasn't it, Kaido?!
+Dialogue: 0,0:02:40.97,0:02:43.01,Default,,0,0,0,,That's right.
+Dialogue: 0,0:02:43.80,0:02:45.97,Default,,0,0,0,,That was all a lie.
+Dialogue: 0,0:02:45.97,0:02:50.06,Default,,0,0,0,,We didn't have that many underlings back then...
+Dialogue: 0,0:02:50.06,0:02:57.03,Default,,0,0,0,,If you were a crazy man\Nwho wouldn't care about the toll of human life just as I heard,
+Dialogue: 0,0:02:59.15,0:03:02.28,Default,,0,0,0,,it would've been a tough battle for us.
+Dialogue: 0,0:03:02.28,0:03:09.20,Default,,0,0,0,,But you believed Orochi's words\Nand chose the way that no one would be hurt.
+Dialogue: 0,0:03:17.71,0:03:20.55,Default,,0,0,0,,I made a good choice that day.
+Dialogue: 0,0:03:21.26,0:03:24.43,Default,,0,0,0,,Let's talk about the future now.
+Dialogue: 0,0:03:26.10,0:03:33.10,Default,,0,0,0,,{\i1}"The End of the Battle!\NOden vs. Kaido!"{\i0}
+Dialogue: 0,0:03:47.08,0:03:49.70,Default,,0,0,0,,Wait, wait! Is this how strong samurai are?!
+Dialogue: 0,0:03:49.70,0:03:53.12,Default,,0,0,0,,Don't hesitate! We're not outnumbered!
+Dialogue: 0,0:03:54.83,0:03:56.63,Default,,0,0,0,,Advance, advance!
+Dialogue: 0,0:03:57.00,0:03:59.17,Default,,0,0,0,,Follow Oden-sama!
+Dialogue: 0,0:04:12.69,0:04:13.69,Default,,0,0,0,,You're dead!
+Dialogue: 0,0:04:17.27,0:04:18.65,Default,,0,0,0,,What's happened?!
+Dialogue: 0,0:04:19.82,0:04:21.07,Default,,0,0,0,,Who are you?
+Dialogue: 0,0:04:21.69,0:04:24.37,Default,,0,0,0,,I'm taking the liberty of backing you up.
+Dialogue: 0,0:04:24.37,0:04:27.64,Default,,0,0,0,,Oden-sama, I'm sure you don't remember me,
+Dialogue: 0,0:04:27.64,0:04:30.95,Default,,0,0,0,,but back when Sukiyaki-sama was still alive...
+Dialogue: 0,0:04:32.16,0:04:34.58,Default,,0,0,0,,Shinobu from the ninja legion?!
+Dialogue: 0,0:04:35.79,0:04:38.29,Default,,0,0,0,,Yes! That's me!
+Dialogue: 0,0:04:38.29,0:04:42.55,Default,,0,0,0,,Why are you here all by yourself?\NWhat happened to the others?
+Dialogue: 0,0:04:43.63,0:04:45.51,Default,,0,0,0,,Kozuki's ninja legion...
+Dialogue: 0,0:04:45.88,0:04:49.56,Default,,0,0,0,,Fukurokuju sold out to Orochi.
+Dialogue: 0,0:04:50.26,0:04:54.60,Default,,0,0,0,,Those who couldn't trust their silly lord\Ncan't be blamed.
+Dialogue: 0,0:04:57.35,0:05:01.04,Default,,0,0,0,,I've always wanted to serve you one day.
+Dialogue: 0,0:05:01.04,0:05:03.24,Default,,0,0,0,,I'm still Kozuki's ninja!
+Dialogue: 0,0:05:03.24,0:05:05.91,Default,,0,0,0,,A tough journey lies ahead of us, Shinobu!
+Dialogue: 0,0:05:05.91,0:05:09.80,Default,,0,0,0,,Yes, I know! I'll accompany you to the end!
+Dialogue: 0,0:05:09.80,0:05:12.16,Default,,0,0,0,,Let's go, you guys!
+Dialogue: 0,0:05:13.45,0:05:14.33,Default,,0,0,0,,Take this!
+Dialogue: 0,0:05:21.88,0:05:23.17,Default,,0,0,0,,How dare you!
+Dialogue: 0,0:05:23.17,0:05:25.60,Default,,0,0,0,,Hey, Hiyori! Wait!
+Dialogue: 0,0:05:25.60,0:05:27.18,Default,,0,0,0,,No way!
+Dialogue: 0,0:05:27.18,0:05:30.64,Default,,0,0,0,,I received a letter from Oden by a messenger.
+Dialogue: 0,0:05:30.64,0:05:34.48,Default,,0,0,0,,It says, "My wife and children will be targeted.\NPlease save them."
+Dialogue: 0,0:05:34.89,0:05:39.48,Default,,0,0,0,,Momonosuke...\NI mean, Momonosuke-sama is already eight...
+Dialogue: 0,0:05:40.27,0:05:43.07,Default,,0,0,0,,Otoki-san, you have to be prepared.
+Dialogue: 0,0:05:44.19,0:05:47.95,Default,,0,0,0,,{\i1}If Oden loses...{\i0}
+Dialogue: 0,0:05:49.03,0:05:51.28,Default,,0,0,0,,{\i1}this country is finished.{\i0}
+Dialogue: 0,0:05:52.74,0:05:54.50,Default,,0,0,0,,{\i1}Oden-{\i0}san{\i1}!{\i0}
+Dialogue: 0,0:06:00.79,0:06:03.46,Default,,0,0,0,,{\i1}This is the first unit. We've been taken down.{\i0}
+Dialogue: 0,0:06:05.55,0:06:09.72,Default,,0,0,0,,{\i1}Kozuki Oden is way stronger than we imagined!{\i0}
+Dialogue: 0,0:06:10.09,0:06:12.94,Default,,0,0,0,,Tsk! How pathetic!
+Dialogue: 0,0:06:12.94,0:06:17.28,Default,,0,0,0,,Why does it take so much time\Nto finish off 11 samurai?!
+Dialogue: 0,0:06:17.28,0:06:19.62,Default,,0,0,0,,We have a thousand troops.
+Dialogue: 0,0:06:19.62,0:06:21.65,Default,,0,0,0,,I can't bear to watch.
+Dialogue: 0,0:06:25.48,0:06:27.49,Default,,0,0,0,,I'll go!
+Dialogue: 0,0:06:41.13,0:06:42.17,Default,,0,0,0,,What the?!
+Dialogue: 0,0:06:45.59,0:06:47.59,Default,,0,0,0,,What is about to happen?!
+Dialogue: 0,0:06:50.76,0:06:53.51,Default,,0,0,0,,Blast Breath!
+Dialogue: 0,0:07:25.50,0:07:28.55,Default,,0,0,0,,Why aren't you giving up already?!
+Dialogue: 0,0:07:34.76,0:07:40.98,Default,,0,0,0,,You think just 11 of you\Ncan take down this many troops?
+Dialogue: 0,0:07:53.95,0:07:56.75,Default,,0,0,0,,If you wanna fight me,
+Dialogue: 0,0:07:56.75,0:07:59.12,Default,,0,0,0,,come up here!
+Dialogue: 0,0:07:59.12,0:08:01.21,Default,,0,0,0,,Yeah, here I come!
+Dialogue: 0,0:08:03.71,0:08:05.42,Default,,0,0,0,,Charge!
+Dialogue: 0,0:08:11.17,0:08:13.09,Default,,0,0,0,,Get Oden's head!
+Dialogue: 0,0:08:13.09,0:08:15.56,Default,,0,0,0,,Let's stall the underlings!
+Dialogue: 0,0:08:15.56,0:08:16.85,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:08:17.26,0:08:18.93,Default,,0,0,0,,I won't let you!
+Dialogue: 0,0:08:21.48,0:08:24.23,Default,,0,0,0,,I'll fight you guys!
+Dialogue: 0,0:08:24.52,0:08:26.06,Default,,0,0,0,,Fine by me!
+Dialogue: 0,0:08:26.36,0:08:27.23,Default,,0,0,0,,Kin-san!
+Dialogue: 0,0:08:33.49,0:08:35.36,Default,,0,0,0,,Ninpo: Flower Shuriken!
+Dialogue: 0,0:09:04.56,0:09:06.56,Default,,0,0,0,,Kaido!
+Dialogue: 0,0:09:08.98,0:09:11.78,Default,,0,0,0,,All I wanna do...
+Dialogue: 0,0:09:12.28,0:09:14.11,Default,,0,0,0,,...is cut off your head!
+Dialogue: 0,0:09:14.61,0:09:17.24,Default,,0,0,0,,What a funny man!
+Dialogue: 0,0:09:17.74,0:09:19.70,Default,,0,0,0,,Paradise Waterfall!
+Dialogue: 0,0:10:01.83,0:10:02.95,Default,,0,0,0,,Oden-sama!
+Dialogue: 0,0:10:25.64,0:10:27.60,Default,,0,0,0,,Kozuki Oden!
+Dialogue: 0,0:10:30.23,0:10:34.61,Default,,0,0,0,,I've been waiting for a guy like you!
+Dialogue: 0,0:10:36.99,0:10:42.87,Default,,0,0,0,,I won't let you have free reign\Nin the Land of Wano anymore!
+Dialogue: 0,0:10:45.16,0:10:47.25,Default,,0,0,0,,Interesting.
+Dialogue: 0,0:11:08.39,0:11:10.89,Default,,0,0,0,,Oden Two-Sword Style!
+Dialogue: 0,0:11:12.65,0:11:14.15,Default,,0,0,0,,Paradise Totsuka!
+Dialogue: 0,0:11:21.32,0:11:22.78,Default,,0,0,0,,Oden-sama!
+Dialogue: 0,0:11:24.45,0:11:28.58,Default,,0,0,0,,I can't lose now!
+Dialogue: 0,0:11:33.04,0:11:36.42,Default,,0,0,0,,I can't lose!
+Dialogue: 0,0:11:37.50,0:11:38.46,Default,,0,0,0,,What?!
+Dialogue: 0,0:11:39.05,0:11:41.72,Default,,0,0,0,,Paradise Totsuka!
+Dialogue: 0,0:12:00.90,0:12:01.90,Default,,0,0,0,,Yes!
+Dialogue: 0,0:12:03.91,0:12:06.99,Default,,0,0,0,,Did he wound the invincible Kaido-sama?!
+Dialogue: 0,0:12:26.05,0:12:27.89,Default,,0,0,0,,This is it!
+Dialogue: 0,0:12:34.94,0:12:36.86,Default,,0,0,0,,Don't ever come back...
+Dialogue: 0,0:12:37.40,0:12:40.07,Default,,0,0,0,,...to the Land of Wano!
+Dialogue: 0,0:12:57.00,0:12:58.13,Default,,0,0,0,,Help!
+Dialogue: 0,0:13:01.30,0:13:02.42,Default,,0,0,0,,Father!
+Dialogue: 0,0:13:02.42,0:13:05.22,Default,,0,0,0,,Father, help me!
+Dialogue: 0,0:13:06.09,0:13:09.64,Default,,0,0,0,,Momo!
+Dialogue: 0,0:13:33.70,0:13:35.54,Default,,0,0,0,,Momo!
+Dialogue: 0,0:13:49.97,0:13:51.47,Default,,0,0,0,,It's me!
+Dialogue: 0,0:13:54.35,0:13:56.48,Default,,0,0,0,,Oden-sama!
+Dialogue: 0,0:14:02.07,0:14:02.98,Default,,0,0,0,,Ashura!
+Dialogue: 0,0:14:05.40,0:14:06.99,Default,,0,0,0,,Oden-sama...
+Dialogue: 0,0:14:25.92,0:14:33.43,Default,,0,0,0,,{\i1}Thus, Kozuki Oden and the Akazaya members'\Nlegendary battle came to an end.{\i0}
+Dialogue: 0,0:15:04.34,0:15:09.60,Default,,0,0,0,,{\i1}The intense battle between the Akazaya samurai\Nand the Animal Kingdom Pirates...{\i0}
+Dialogue: 0,0:15:09.60,0:15:17.02,Default,,0,0,0,,{\i1}...set a forest in Udon ablaze\Nwhich didn't die down until a rainy day five days later.{\i0}
+Dialogue: 0,0:15:29.19,0:15:30.49,Default,,0,0,0,,Mother!
+Dialogue: 0,0:15:32.36,0:15:34.83,Default,,0,0,0,,When will Father come home?!
+Dialogue: 0,0:15:35.24,0:15:37.25,Default,,0,0,0,,I made a balloon for him!
+Dialogue: 0,0:15:37.25,0:15:39.79,Default,,0,0,0,,Oh, look at that!
+Dialogue: 0,0:15:49.38,0:15:51.22,Default,,0,0,0,,Mother?
+Dialogue: 0,0:15:54.01,0:15:56.19,Default,,0,0,0,,Can't wait to see him, huh?
+Dialogue: 0,0:15:56.19,0:15:59.68,Default,,0,0,0,,Uh-huh! I really wanna play with Father!
+Dialogue: 0,0:16:07.90,0:16:12.40,Default,,0,0,0,,{\i1}Kozuki Oden, the Daimyo of Kuri,\Nand the nine others were held captive,{\i0}
+Dialogue: 0,0:16:12.82,0:16:20.37,Default,,0,0,0,,{\i1}and jailed in the Flower Capital\Nwaiting for the verdict as rebels against the Shogun.{\i0}
+Dialogue: 0,0:16:20.37,0:16:25.29,Default,,0,0,0,,{\i1}Common people didn't know the reason,\Nso they treated them with cold contempt...{\i0}
+Dialogue: 0,0:16:25.29,0:16:26.80,Default,,0,0,0,,He already let us down...
+Dialogue: 0,0:16:26.80,0:16:28.26,Default,,0,0,0,,It's too late.
+Dialogue: 0,0:16:28.26,0:16:33.72,Default,,0,0,0,,We don't get to see his weekly naked dance anymore?\NThat's a shame!
+Dialogue: 0,0:16:33.72,0:16:35.60,Default,,0,0,0,,Hey, that's inappropriate!
+Dialogue: 0,0:16:35.60,0:16:38.31,Default,,0,0,0,,Oops. Sorry, sorry.
+Dialogue: 0,0:16:42.39,0:16:44.14,Default,,0,0,0,,Oden-sama...
+Dialogue: 0,0:16:44.94,0:16:46.65,Default,,0,0,0,,Damn! Let me go!
+Dialogue: 0,0:16:46.65,0:16:48.69,Default,,0,0,0,,Be quiet!
+Dialogue: 0,0:16:50.57,0:16:51.44,Default,,0,0,0,,Oden-sama!
+Dialogue: 0,0:16:52.24,0:16:56.37,Default,,0,0,0,,She's your ally, too, right?!\NWe'll take her to jail!
+Dialogue: 0,0:16:58.03,0:16:59.91,Default,,0,0,0,,Who is she?
+Dialogue: 0,0:17:01.83,0:17:05.38,Default,,0,0,0,,She's not my retainer!
+Dialogue: 0,0:17:05.38,0:17:08.00,Default,,0,0,0,,I guess she came to kill me!
+Dialogue: 0,0:17:09.25,0:17:10.88,Default,,0,0,0,,Oden-sama?
+Dialogue: 0,0:17:10.88,0:17:14.13,Default,,0,0,0,,Don't call me that! Stop pretending!
+Dialogue: 0,0:17:14.13,0:17:17.22,Default,,0,0,0,,Shut up and go away, you damn {\i1}kunoichi{\i0}!
+Dialogue: 0,0:17:25.39,0:17:31.48,Default,,0,0,0,,The verdict against the samurai has been passed!
+Dialogue: 0,0:17:35.07,0:17:44.33,Default,,0,0,0,,The 10 evil samurai who recently raised a rebellion\Nagainst the Shogun Orochi...
+Dialogue: 0,0:17:55.63,0:18:02.47,Default,,0,0,0,,...are sentenced to public execution\Nby boiling three days from now!
+Dialogue: 0,0:18:10.02,0:18:12.27,Default,,0,0,0,,{\i1}Three days later...{\i0}
+Dialogue: 0,0:18:14.78,0:18:17.11,Default,,0,0,0,,It's so rare to see someone getting boiled!
+Dialogue: 0,0:18:17.86,0:18:22.12,Default,,0,0,0,,--They'll be boiled in oil, so it won't take long!\N--Then, we must hurry!
+Dialogue: 0,0:18:23.24,0:18:24.37,Default,,0,0,0,,No!
+Dialogue: 0,0:18:25.16,0:18:27.80,Default,,0,0,0,,Momonosuke,\Nit hasn't been tested for poison yet.
+Dialogue: 0,0:18:27.80,0:18:29.67,Default,,0,0,0,,May I?
+Dialogue: 0,0:18:32.71,0:18:34.17,Default,,0,0,0,,Mother...
+Dialogue: 0,0:18:34.51,0:18:37.68,Default,,0,0,0,,Why is someone after my life?
+Dialogue: 0,0:18:39.84,0:18:42.23,Default,,0,0,0,,Because your father is a great man,
+Dialogue: 0,0:18:42.23,0:18:47.48,Default,,0,0,0,,and you are the one\Nwho will govern this country someday.
+Dialogue: 0,0:18:53.36,0:18:56.24,Default,,0,0,0,,Here you go, Momonosuke-sama, Hiyori-sama.
+Dialogue: 0,0:18:56.24,0:18:58.28,Default,,0,0,0,,Let's eat!
+Dialogue: 0,0:18:59.78,0:19:01.28,Default,,0,0,0,,Brother?
+Dialogue: 0,0:19:05.41,0:19:07.33,Default,,0,0,0,,Mother!
+Dialogue: 0,0:19:09.96,0:19:15.21,Default,,0,0,0,,Today, is Father really...
+Dialogue: 0,0:19:22.30,0:19:24.89,Default,,0,0,0,,Father...
+Dialogue: 0,0:19:25.39,0:19:29.52,Default,,0,0,0,,Father!
+Dialogue: 0,0:20:11.48,0:20:13.98,Default,,0,0,0,,All right! It's time for the execution!
+Dialogue: 0,0:20:17.94,0:20:24.99,Default,,0,0,0,,Now we begin the public execution of Kozuki Oden\Nand his nine retainers!
+Dialogue: 0,0:20:39.05,0:20:41.97,Default,,0,0,0,,In the end, he couldn't beat Kaido!
+Dialogue: 0,0:20:42.34,0:20:46.64,Default,,0,0,0,,Even though he's a silly king,\NI thought he was really strong!
+Dialogue: 0,0:20:47.22,0:20:50.18,Default,,0,0,0,,What was he good for anyway?!
+Dialogue: 0,0:20:54.69,0:20:55.98,Default,,0,0,0,,Walk.
+Dialogue: 0,0:21:39.32,0:21:42.32,Default,,0,0,0,,Get in the pot already!
+Dialogue: 0,0:21:50.53,0:21:53.04,Default,,0,0,0,,Give me a chance.
+Dialogue: 0,0:21:53.04,0:21:56.54,Default,,0,0,0,,I must live!
+Dialogue: 0,0:21:56.54,0:21:59.42,Default,,0,0,0,,Don't be ridiculous!
+Dialogue: 0,0:22:01.88,0:22:06.47,Default,,0,0,0,,Stop making me laugh by begging for your life!\NJust get in!
+Dialogue: 0,0:22:11.39,0:22:12.68,Default,,0,0,0,,Help...
+Dialogue: 0,0:22:14.18,0:22:16.02,Default,,0,0,0,,G-Go away!
+Dialogue: 0,0:22:22.52,0:22:24.07,Default,,0,0,0,,Cut it out!
+Dialogue: 0,0:22:24.07,0:22:27.95,Default,,0,0,0,,Why should I give you a chance?!
+Dialogue: 0,0:22:27.95,0:22:29.99,Default,,0,0,0,,Kozuki Oden!
+Dialogue: 0,0:22:30.57,0:22:32.37,Default,,0,0,0,,What are you up to?!
+Dialogue: 0,0:22:33.45,0:22:36.08,Default,,0,0,0,,We'll get in the pot at once.
+Dialogue: 0,0:22:38.37,0:22:39.92,Default,,0,0,0,,What?
+Dialogue: 0,0:22:48.43,0:22:53.22,Default,,0,0,0,,Set whatever time limit you like\Nand if any of us survive that long...
+Dialogue: 0,0:23:03.73,0:23:05.94,Default,,0,0,0,,Set us free!
+Dialogue: 0,0:23:18.46,0:23:24.75,Default,,0,0,0,,{\i1}A decisive challenge of fate!\NAn execution by boiling dooms Oden and his clan!{\i0}
+Dialogue: 0,0:23:24.75,0:23:28.64,Italics,,0,0,0,,{\i1}Oden does his utmost to ensure the survival of the country,
+Dialogue: 0,0:23:28.64,0:23:30.88,Italics,,0,0,0,,but Orochi drives his wrath against him!{\i0}
+Dialogue: 0,0:23:31.01,0:23:36.27,Default,,0,0,0,,{\i1}The truth behind their rivalry shakes the Land of Wano!{\i0}
+Dialogue: 0,0:23:36.64,0:23:41.24,Default,,0,0,0,,On the next episode of One Piece!\N"Boiled to Death! Oden's One-hour Struggle!"
+Dialogue: 0,0:23:41.24,0:23:45.69,Default,,0,0,0,,I'm gonna become the King of the Pirates!
+Dialogue: 0,0:23:45.65,0:23:47.65,Default,,0,0,0,,
+Dialogue: 0,0:23:47.65,0:23:49.65,On Top,,0,0,0,,

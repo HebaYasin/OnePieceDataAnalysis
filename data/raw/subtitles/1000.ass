@@ -1,0 +1,243 @@
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline,cls StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Noto Sans SemBd,25,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:22.15,0:00:24.32,Default,,0,0,0,,{\i1}Wealth, fame, power...{\i0}
+Dialogue: 0,0:00:24.32,0:00:28.53,Default,,0,0,0,,{\i1}Gol D. Roger, the King of the Pirates,\Nattained everything this world has to offer.{\i0}
+Dialogue: 0,0:00:28.53,0:00:32.41,Default,,0,0,0,,{\i1}The words he uttered just before\Nhis death drove people to the seas.{\i0}
+Dialogue: 0,0:00:32.41,0:00:36.12,Default,,0,0,0,,My treasure?\NIf you want it, you can have it!
+Dialogue: 0,0:00:36.12,0:00:39.87,Default,,0,0,0,,Find it! I left everything\Nthis world has to offer there!
+Dialogue: 0,0:00:42.33,0:00:47.09,Default,,0,0,0,,{\i1}And so men head for the\NGrand Line in pursuit of their dreams!{\i0}
+Dialogue: 0,0:00:47.09,0:00:50.51,Default,,0,0,0,,{\i1}The world has truly\Nentered a Great Pirate Era!{\i0}
+Dialogue: 0,0:00:51.05,0:00:55.64,Default,,0,0,0,,{\i1}We're going to gather up all our dreams{\i0}
+Dialogue: 0,0:00:56.64,0:01:02.35,Default,,0,0,0,,{\i1}and set out in search of something to find{\i0}
+Dialogue: 0,0:01:02.35,0:01:03.73,Default,,0,0,0,,{\i1}ONE PIECE!{\i0}
+Dialogue: 0,0:01:08.57,0:01:13.53,Default,,0,0,0,,{\i1}Compasses only cause delays{\i0}
+Dialogue: 0,0:01:14.07,0:01:19.54,Default,,0,0,0,,{\i1}Delirious with fever, I take the helm{\i0}
+Dialogue: 0,0:01:19.95,0:01:30.80,Default,,0,0,0,,{\i1}If the dusty treasure map has been verified,{\i0}\Nit's not a legend!
+Dialogue: 0,0:01:31.97,0:01:37.81,Default,,0,0,0,,{\i1}When it comes to personal storms,{\i0}
+Dialogue: 0,0:01:37.81,0:01:42.77,Default,,0,0,0,,{\i1}simply ride aboard someone else's biorhythm{\i0}
+Dialogue: 0,0:01:42.77,0:01:45.10,Default,,0,0,0,,{\i1}and pretend it isn't there!{\i0}
+Dialogue: 0,0:01:46.65,0:01:51.19,Default,,0,0,0,,{\i1}We're going to gather up all our dreams{\i0}
+Dialogue: 0,0:01:52.28,0:01:57.87,Default,,0,0,0,,{\i1}and set out in search of something to find{\i0}
+Dialogue: 0,0:01:57.87,0:02:04.17,Default,,0,0,0,,{\i1}A coin in my pocket,{\i0}\Nand do you wanna be my friend?
+Dialogue: 0,0:02:04.17,0:02:08.42,Default,,0,0,0,,{\i1}We are, We are on the cruise!{\i0}
+Dialogue: 0,0:02:09.63,0:02:10.84,Default,,0,0,0,,{\i1}We are!{\i0}
+Dialogue: 0,0:02:15.55,0:02:20.60,Default,,0,0,0,,{\i1}"Overwhelming Strength!{\i0}\NThe Straw Hats Come Together!"
+Dialogue: 0,0:02:26.15,0:02:29.07,Default,,0,0,0,,Stop me!
+Dialogue: 0,0:02:29.77,0:02:30.94,Default,,0,0,0,,That's Mama!
+Dialogue: 0,0:02:31.73,0:02:32.65,Default,,0,0,0,,No way.
+Dialogue: 0,0:02:32.65,0:02:34.20,Default,,0,0,0,,I'm sure it is!
+Dialogue: 0,0:02:34.49,0:02:37.82,Default,,0,0,0,,Whoa-whoa,\Nwhat happened to the ogre extermination-{\i1}yoi{\i0}?
+Dialogue: 0,0:02:44.12,0:02:45.46,Default,,0,0,0,,Mama?!
+Dialogue: 0,0:02:47.54,0:02:51.17,Default,,0,0,0,,Sasaki-{\i1}sama{\i0}, I can't believe you got tied up.
+Dialogue: 0,0:02:52.01,0:02:53.09,Default,,0,0,0,,So dumb, right?
+Dialogue: 0,0:02:53.51,0:02:57.68,Default,,0,0,0,,I never expected to be fooled by Kyoshiro,\Nmy alleged best friend.
+Dialogue: 0,0:03:02.14,0:03:04.98,Default,,0,0,0,,Now, what happened to this?
+Dialogue: 0,0:03:05.35,0:03:09.44,Default,,0,0,0,,Well, Big Mom let loose in the dome...
+Dialogue: 0,0:03:09.44,0:03:11.36,Default,,0,0,0,,And her attack made it out here?!
+Dialogue: 0,0:03:13.69,0:03:15.65,Default,,0,0,0,,What monstrous power.
+Dialogue: 0,0:03:16.07,0:03:18.49,Default,,0,0,0,,Well, thanks to that, I got released...
+Dialogue: 0,0:03:19.24,0:03:23.58,Default,,0,0,0,,Anyway, I can't believe\NKyoshiro was one of Oden's retainers.
+Dialogue: 0,0:03:26.08,0:03:30.04,Default,,0,0,0,,I'm not interested in the Land of Wano's history...
+Dialogue: 0,0:03:30.71,0:03:33.51,Default,,0,0,0,,But he must pay a heavy price for betraying me.
+Dialogue: 0,0:03:40.18,0:03:41.55,Default,,0,0,0,,Charge!
+Dialogue: 0,0:03:49.65,0:03:51.61,Default,,0,0,0,,We're gonna stop them!
+Dialogue: 0,0:04:03.08,0:04:05.91,Default,,0,0,0,,Exterminate the Minks!
+Dialogue: 0,0:04:06.54,0:04:10.38,Default,,0,0,0,,We Minks have a strong will!\NWe'll take you-{\i1}gara {\i0}down!
+Dialogue: 0,0:04:10.67,0:04:13.09,Default,,0,0,0,,Do your worst!
+Dialogue: 0,0:04:20.72,0:04:22.55,Default,,0,0,0,,This will finish you off!
+Dialogue: 0,0:04:37.61,0:04:39.40,Default,,0,0,0,,I can't take it anymore!
+Dialogue: 0,0:04:40.91,0:04:43.58,Default,,0,0,0,,Thank you for fighting until this point.
+Dialogue: 0,0:04:45.74,0:04:47.37,Default,,0,0,0,,We will take care of the rest!
+Dialogue: 0,0:04:47.91,0:04:48.91,Default,,0,0,0,,Wait.
+Dialogue: 0,0:04:50.21,0:04:51.46,Default,,0,0,0,,Kin'emon.
+Dialogue: 0,0:04:53.92,0:04:55.67,Default,,0,0,0,,Dog! Cat!
+Dialogue: 0,0:04:56.50,0:04:58.92,Default,,0,0,0,,Let us handle this.
+Dialogue: 0,0:04:59.34,0:05:00.38,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:06:02.90,0:06:04.11,Default,,0,0,0,,You-{\i1}gara {\i0}guys!
+Dialogue: 0,0:06:04.66,0:06:06.49,Default,,0,0,0,,We'll take over!
+Dialogue: 0,0:06:16.63,0:06:17.34,Default,,0,0,0,,How fast!
+Dialogue: 0,0:06:38.65,0:06:40.11,Default,,0,0,0,,Catch him!
+Dialogue: 0,0:06:51.04,0:06:53.08,Default,,0,0,0,,Oh, I see the sky.
+Dialogue: 0,0:06:53.58,0:06:56.21,Default,,0,0,0,,Okay, I think I can get up there from here.
+Dialogue: 0,0:06:58.29,0:06:59.38,Default,,0,0,0,,Don't move!
+Dialogue: 0,0:07:00.25,0:07:01.55,Default,,0,0,0,,Queen-{\i1}sama{\i0}!
+Dialogue: 0,0:07:01.55,0:07:04.01,Default,,0,0,0,,Shut up. I'm on a break.
+Dialogue: 0,0:07:04.01,0:07:04.84,Default,,0,0,0,,It's Straw Hat!
+Dialogue: 0,0:07:06.84,0:07:08.30,Default,,0,0,0,,What?! Straw Hat?!
+Dialogue: 0,0:07:10.55,0:07:12.22,Default,,0,0,0,,And he isn't alone?!
+Dialogue: 0,0:07:12.72,0:07:14.64,Default,,0,0,0,,Hey, Zoro!
+Dialogue: 0,0:07:14.64,0:07:17.60,Default,,0,0,0,,Oh, Luffy! Where are you going?
+Dialogue: 0,0:07:17.60,0:07:19.27,Default,,0,0,0,,Up where Kaido is.
+Dialogue: 0,0:07:20.15,0:07:21.44,Default,,0,0,0,,I'll come with you.
+Dialogue: 0,0:07:21.73,0:07:23.61,Default,,0,0,0,,I won't let you guys go!
+Dialogue: 0,0:07:32.24,0:07:34.50,Default,,0,0,0,,What's that giant creature down there?!
+Dialogue: 0,0:07:36.37,0:07:37.12,Default,,0,0,0,,All right!
+Dialogue: 0,0:07:39.75,0:07:42.13,Default,,0,0,0,,Gum-Gum...
+Dialogue: 0,0:07:42.50,0:07:44.92,Default,,0,0,0,,...Rocket!
+Dialogue: 0,0:07:46.63,0:07:47.72,Default,,0,0,0,,I can get there!
+Dialogue: 0,0:07:48.22,0:07:49.72,Default,,0,0,0,,Kaido's up there?
+Dialogue: 0,0:07:49.72,0:07:53.06,Default,,0,0,0,,Yeah, Kin'emon and the others\Nare all fighting up there, too!
+Dialogue: 0,0:07:53.39,0:07:54.97,Default,,0,0,0,,We're almost there!
+Dialogue: 0,0:08:04.90,0:08:06.53,Default,,0,0,0,,Dammit!
+Dialogue: 0,0:08:07.74,0:08:10.16,Default,,0,0,0,,I won't let you go, you fools!
+Dialogue: 0,0:08:13.03,0:08:15.45,Default,,0,0,0,,I won't let you in this area!
+Dialogue: 0,0:08:19.42,0:08:21.67,Default,,0,0,0,,We'll never be able to get up there!
+Dialogue: 0,0:08:21.67,0:08:23.92,Default,,0,0,0,,Security's very tight!
+Dialogue: 0,0:08:56.74,0:08:58.00,Default,,0,0,0,,Get out of my way!
+Dialogue: 0,0:08:58.62,0:08:59.79,Default,,0,0,0,,Screw you!
+Dialogue: 0,0:09:04.96,0:09:07.00,Default,,0,0,0,,Straw hat man!
+Dialogue: 0,0:09:11.80,0:09:15.30,Default,,0,0,0,,The big one is back for more.
+Dialogue: 0,0:09:16.10,0:09:17.56,Default,,0,0,0,,- Let's fight!\N- Yeah!
+Dialogue: 0,0:09:30.45,0:09:32.45,Default,,0,0,0,,Leave it to me!
+Dialogue: 0,0:09:33.82,0:09:36.70,Default,,0,0,0,,Come on, Brachio Tank!
+Dialogue: 0,0:09:41.46,0:09:43.54,Default,,0,0,0,,I'm Commander Chopper!
+Dialogue: 0,0:09:43.54,0:09:45.42,Default,,0,0,0,,I'm Driver Usopp!
+Dialogue: 0,0:09:46.29,0:09:48.63,Default,,0,0,0,,To reunite with the Black Rhino bike,
+Dialogue: 0,0:09:49.05,0:09:52.22,Default,,0,0,0,,we went through so many hard battles...
+Dialogue: 0,0:09:52.63,0:09:56.60,Default,,0,0,0,,...and we just arrived at this promised hill now!
+Dialogue: 0,0:09:56.85,0:09:59.93,Default,,0,0,0,,Good job! Let's start combining!
+Dialogue: 0,0:10:10.98,0:10:13.28,Default,,0,0,0,,Yes! Yes! Yes!
+Dialogue: 0,0:10:13.28,0:10:15.78,Default,,0,0,0,,Let's do it!
+Dialogue: 0,0:10:17.45,0:10:20.41,Default,,0,0,0,,Combining formation!
+Dialogue: 0,0:10:28.88,0:10:30.30,Default,,0,0,0,,Black Rhino, stand by!
+Dialogue: 0,0:10:32.76,0:10:35.88,Default,,0,0,0,,Brachio Head, change!
+Dialogue: 0,0:10:38.39,0:10:41.18,Default,,0,0,0,,Sorry! This robot is a single seater.
+Dialogue: 0,0:10:41.18,0:10:42.56,Default,,0,0,0,,What?!
+Dialogue: 0,0:10:42.56,0:10:44.60,Default,,0,0,0,,That's unacceptable!
+Dialogue: 0,0:10:45.23,0:10:46.73,Default,,0,0,0,,Are they...
+Dialogue: 0,0:10:46.73,0:10:49.02,Default,,0,0,0,,Usohachi-{\i1}san{\i0}! Chopperemon-{\i1}san{\i0}!
+Dialogue: 0,0:10:49.48,0:10:50.98,Default,,0,0,0,,Are you okay?!
+Dialogue: 0,0:10:50.98,0:10:56.11,Default,,0,0,0,,Thank you for sacrificing yourselves for us\Nat the Pleasure Hall!
+Dialogue: 0,0:10:56.11,0:10:58.99,Default,,0,0,0,,Guys, put that aside for now...
+Dialogue: 0,0:10:58.99,0:11:00.28,Default,,0,0,0,,For now!
+Dialogue: 0,0:11:00.28,0:11:03.29,Default,,0,0,0,,And pay attention to the combination!
+Dialogue: 0,0:11:03.29,0:11:04.21,Default,,0,0,0,,The combination!
+Dialogue: 0,0:11:19.47,0:11:22.02,Default,,0,0,0,,Iron Pirate!
+Dialogue: 0,0:11:22.89,0:11:26.48,Default,,0,0,0,,General Franky!
+Dialogue: 0,0:11:28.69,0:11:32.52,Default,,0,0,0,,What?! Is that a mechanical warrior?!
+Dialogue: 0,0:11:32.90,0:11:34.99,Default,,0,0,0,,Great Djinn-{\i1}sama{\i0}!
+Dialogue: 0,0:11:34.99,0:11:36.82,Default,,0,0,0,,Thank you, thank you!
+Dialogue: 0,0:11:42.53,0:11:43.70,Default,,0,0,0,,Here I go!
+Dialogue: 0,0:11:44.87,0:11:46.91,Default,,0,0,0,,Franky Cannon!
+Dialogue: 0,0:11:48.62,0:11:50.75,Default,,0,0,0,,I knew you were gonna shoot it yourself!
+Dialogue: 0,0:11:50.75,0:11:51.67,Default,,0,0,0,,Yourself!
+Dialogue: 0,0:11:57.47,0:11:59.51,Default,,0,0,0,,{\i1}Super{\i0}!
+Dialogue: 0,0:11:59.76,0:12:01.55,Default,,0,0,0,,Jaki has been taken down!
+Dialogue: 0,0:12:01.55,0:12:03.39,Default,,0,0,0,,We're in trouble!
+Dialogue: 0,0:12:03.39,0:12:05.97,Default,,0,0,0,,Let's just get away from here!
+Dialogue: 0,0:12:05.97,0:12:07.14,Default,,0,0,0,,You're right!
+Dialogue: 0,0:12:12.48,0:12:13.36,Default,,0,0,0,,Where's Momo?
+Dialogue: 0,0:12:14.94,0:12:16.03,Default,,0,0,0,,I guess he got away...
+Dialogue: 0,0:12:16.65,0:12:20.36,Default,,0,0,0,,That bird brain...\NHe almost punched a hole through my stomach!
+Dialogue: 0,0:12:22.28,0:12:24.54,Default,,0,0,0,,This suit is annoyingly solid...
+Dialogue: 0,0:12:31.08,0:12:32.21,Default,,0,0,0,,Damn Germa!
+Dialogue: 0,0:12:36.17,0:12:37.55,Default,,0,0,0,,The enemies keep coming!
+Dialogue: 0,0:12:39.76,0:12:41.80,Default,,0,0,0,,Even if Jaki has been taken down...
+Dialogue: 0,0:12:41.80,0:12:43.51,Default,,0,0,0,,We still got Goki and Juki!
+Dialogue: 0,0:12:46.02,0:12:48.81,Default,,0,0,0,,Here they come! Buck up, guys!
+Dialogue: 0,0:12:50.60,0:12:52.81,Default,,0,0,0,,The enemies are right in front of us!
+Dialogue: 0,0:13:01.20,0:13:02.95,Default,,0,0,0,,Straw hat man?!
+Dialogue: 0,0:13:03.32,0:13:04.70,Default,,0,0,0,,Gear Two!
+Dialogue: 0,0:13:06.58,0:13:08.54,Default,,0,0,0,,Gum-Gum...
+Dialogue: 0,0:13:08.54,0:13:10.79,Default,,0,0,0,,...Jet Gatling!
+Dialogue: 0,0:13:44.49,0:13:46.45,Default,,0,0,0,,{\i1}Straw Hat Luffy.{\i0}
+Dialogue: 0,0:13:46.45,0:13:49.08,Default,,0,0,0,,{\i1}Bounty: 1.5 billion berries.{\i0}
+Dialogue: 0,0:13:55.46,0:13:58.84,Default,,0,0,0,,Whoa-whoa, he's coming all by himself!
+Dialogue: 0,0:13:58.84,0:14:00.38,Default,,0,0,0,,Is he stupid?!
+Dialogue: 0,0:14:00.38,0:14:01.76,Default,,0,0,0,,One-Sword Style!
+Dialogue: 0,0:14:01.76,0:14:04.43,Default,,0,0,0,,360-Pound Phoenix!
+Dialogue: 0,0:14:31.08,0:14:32.96,Default,,0,0,0,,{\i1}Pirate Hunter Zoro.{\i0}
+Dialogue: 0,0:14:32.96,0:14:35.71,Default,,0,0,0,,{\i1}Bounty: 320 million berries.{\i0}
+Dialogue: 0,0:14:38.25,0:14:41.88,Default,,0,0,0,,Commander Chopper,\Nwe got to do it, too!
+Dialogue: 0,0:14:41.88,0:14:43.67,Default,,0,0,0,,Mm-hm!\NIt's close combat!
+Dialogue: 0,0:14:44.55,0:14:46.55,Default,,0,0,0,,Special Attack Green Star!
+Dialogue: 0,0:14:46.55,0:14:49.39,Default,,0,0,0,,Skull Blast Grass!
+Dialogue: 0,0:14:55.44,0:14:57.98,Default,,0,0,0,,It's an exclusive version for this occasion!
+Dialogue: 0,0:15:22.42,0:15:24.17,Default,,0,0,0,,{\i1}God Usopp.{\i0}
+Dialogue: 0,0:15:24.17,0:15:26.63,Default,,0,0,0,,{\i1}Bounty: 200 million berries.{\i0}
+Dialogue: 0,0:15:26.93,0:15:28.09,Default,,0,0,0,,You...
+Dialogue: 0,0:16:04.38,0:16:06.55,Default,,0,0,0,,{\i1}Chopper the Cotton Candy Lover.{\i0}
+Dialogue: 0,0:16:06.55,0:16:08.76,Default,,0,0,0,,{\i1}Bounty: 100 berries.{\i0}
+Dialogue: 0,0:16:09.05,0:16:12.22,Default,,0,0,0,,Mil Fleurs, Gigantesco Mano!
+Dialogue: 0,0:16:12.51,0:16:13.39,Default,,0,0,0,,Stomp!
+Dialogue: 0,0:16:19.19,0:16:20.98,Default,,0,0,0,,You have to pay attention!
+Dialogue: 0,0:16:21.52,0:16:22.11,Default,,0,0,0,,Clutch!
+Dialogue: 0,0:16:44.92,0:16:47.17,Default,,0,0,0,,{\i1}Demon Child Nico Robin.{\i0}
+Dialogue: 0,0:16:47.17,0:16:49.84,Default,,0,0,0,,{\i1}Bounty: 130 million berries.{\i0}
+Dialogue: 0,0:16:51.68,0:16:53.10,Default,,0,0,0,,Three-pace Hum...
+Dialogue: 0,0:16:53.55,0:16:54.93,Default,,0,0,0,,...Notch Slash.
+Dialogue: 0,0:17:01.65,0:17:03.65,Default,,0,0,0,,You've been cut!
+Dialogue: 0,0:17:25.21,0:17:27.38,Default,,0,0,0,,{\i1}Soul King Brook.{\i0}
+Dialogue: 0,0:17:27.38,0:17:30.01,Default,,0,0,0,,{\i1}Bounty: 83 million berries.{\i0}
+Dialogue: 0,0:17:32.55,0:17:34.80,Default,,0,0,0,,She's a hot chick!
+Dialogue: 0,0:17:36.43,0:17:39.23,Default,,0,0,0,,No! I can't stand pests!
+Dialogue: 0,0:17:39.56,0:17:42.69,Default,,0,0,0,,Thunderbolt Tempo!
+Dialogue: 0,0:17:45.11,0:17:47.27,Default,,0,0,0,,Don't mess with me!
+Dialogue: 0,0:18:08.71,0:18:10.63,Default,,0,0,0,,{\i1}Cat Burglar Nami.{\i0}
+Dialogue: 0,0:18:10.63,0:18:13.22,Default,,0,0,0,,{\i1}Bounty: 66 million berries.{\i0}
+Dialogue: 0,0:18:15.76,0:18:18.81,Default,,0,0,0,,Nami-{\i1}san{\i0}! I'm coming to help!
+Dialogue: 0,0:18:21.31,0:18:21.89,Default,,0,0,0,,Damn!
+Dialogue: 0,0:18:22.18,0:18:24.69,Default,,0,0,0,,Poele A Frire Spectre!
+Dialogue: 0,0:18:52.76,0:18:54.63,Default,,0,0,0,,{\i1}Black-Leg Sanji.{\i0}
+Dialogue: 0,0:18:54.63,0:18:57.68,Default,,0,0,0,,{\i1}Bounty: 330 million berries.{\i0}
+Dialogue: 0,0:18:57.97,0:19:00.06,Default,,0,0,0,,Everyone's quite strong!
+Dialogue: 0,0:19:00.06,0:19:02.68,Default,,0,0,0,,As a newcomer, I have to keep up!
+Dialogue: 0,0:19:03.85,0:19:06.52,Default,,0,0,0,,Cut the crap! You're a mere Fish-Man!
+Dialogue: 0,0:19:21.66,0:19:25.91,Default,,0,0,0,,Oh, no. I shouldn't have overdone it like that.
+Dialogue: 0,0:19:51.44,0:19:53.32,Default,,0,0,0,,{\i1}"First Son of the Sea" Jimbei.{\i0}
+Dialogue: 0,0:19:53.32,0:19:56.53,Default,,0,0,0,,{\i1}Bounty: 438 million berries.{\i0}
+Dialogue: 0,0:19:56.91,0:19:58.74,Default,,0,0,0,,This is the "marauder's sword"!
+Dialogue: 0,0:20:00.45,0:20:02.24,Default,,0,0,0,,Franken!
+Dialogue: 0,0:20:06.50,0:20:10.29,Default,,0,0,0,,General Watch-Your-Step!
+Dialogue: 0,0:20:14.34,0:20:15.42,Default,,0,0,0,,How's that?!
+Dialogue: 0,0:20:35.23,0:20:37.32,Default,,0,0,0,,{\i1}Cyborg Franky.{\i0}
+Dialogue: 0,0:20:37.32,0:20:40.24,Default,,0,0,0,,{\i1}Bounty: 94 million berries.{\i0}
+Dialogue: 0,0:20:42.12,0:20:46.50,Default,,0,0,0,,You just took down some weaklings.\NDon't flatter yourselves!
+Dialogue: 0,0:20:47.08,0:20:49.46,Default,,0,0,0,,We still have a numerical advantage!
+Dialogue: 0,0:21:00.34,0:21:01.97,Default,,0,0,0,,Oh, I'm sorry!
+Dialogue: 0,0:21:01.97,0:21:05.64,Default,,0,0,0,,This situation kind of tickles my funny bone.
+Dialogue: 0,0:21:06.27,0:21:09.52,Default,,0,0,0,,We still got a bunch of enemies around us!
+Dialogue: 0,0:21:09.52,0:21:12.11,Default,,0,0,0,,But for some reason,
+Dialogue: 0,0:21:12.11,0:21:14.27,Default,,0,0,0,,I don't feel like we're gonna lose.
+Dialogue: 0,0:21:14.27,0:21:17.19,Default,,0,0,0,,- You're right!\N- Yeah, me neither!
+Dialogue: 0,0:21:17.19,0:21:20.49,Default,,0,0,0,,It's strange. Why do we feel this way?
+Dialogue: 0,0:21:20.49,0:21:22.24,Default,,0,0,0,,It's obvious, isn't it?!
+Dialogue: 0,0:21:22.57,0:21:25.49,Default,,0,0,0,,Because the straw hat man is with us!
+Dialogue: 0,0:21:28.87,0:21:31.75,Default,,0,0,0,,I thought I could just get there by jumping.
+Dialogue: 0,0:21:31.75,0:21:33.54,Default,,0,0,0,,Damn. It's not that easy.
+Dialogue: 0,0:21:34.25,0:21:35.59,Default,,0,0,0,,I'll come with you.
+Dialogue: 0,0:21:36.76,0:21:38.51,Default,,0,0,0,,Let's just get to the top!
+Dialogue: 0,0:21:41.63,0:21:43.68,Default,,0,0,0,,What a pain.
+Dialogue: 0,0:21:43.68,0:21:46.60,Default,,0,0,0,,Are they all capable of flying?
+Dialogue: 0,0:21:47.18,0:21:50.52,Default,,0,0,0,,If we tear off their wings,\Nthey're just caterpillars.
+Dialogue: 0,0:21:50.52,0:21:53.44,Default,,0,0,0,,The way you put it\Ncreeps me out as always!
+Dialogue: 0,0:21:55.52,0:21:59.44,Default,,0,0,0,,So they're the Lead Performers\Nthat everyone's talking about.
+Dialogue: 0,0:22:03.45,0:22:07.74,Default,,0,0,0,,They look strong,\Nbut our captain's stronger!
+Dialogue: 0,0:22:08.04,0:22:09.16,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:22:09.16,0:22:13.50,Default,,0,0,0,,As a navigator, my duty is to help the captain\Nget where he wants to go!
+Dialogue: 0,0:22:17.50,0:22:19.42,Default,,0,0,0,,{\i1}Super {\i0}count on me!
+Dialogue: 0,0:22:19.42,0:22:22.80,Default,,0,0,0,,This General Franky'll clear the way for you!
+Dialogue: 0,0:22:25.68,0:22:27.43,Default,,0,0,0,,Let's go, Captain!
+Dialogue: 0,0:22:30.31,0:22:33.14,Default,,0,0,0,,Yeah! Let's do it one more time! Ready?!
+Dialogue: 0,0:22:34.27,0:22:37.44,Default,,0,0,0,,Everyone! I'll leave the rest to you!
+Dialogue: 0,0:22:37.44,0:22:38.98,Default,,0,0,0,,Back us up!
+Dialogue: 0,0:22:54.42,0:22:56.08,Default,,0,0,0,,I'm gonna go...
+Dialogue: 0,0:22:57.34,0:22:59.42,Default,,0,0,0,,...take down Kaido!
+Dialogue: 0,0:23:25.20,0:23:31.33,Default,,0,0,0,,{\i1}While Luffy and the others are making big strides,\Nrestlessness starts prevailing among the Tobi Roppo.{\i0}
+Dialogue: 0,0:23:31.83,0:23:37.67,Default,,0,0,0,,{\i1}A daring cur looking to get promoted\Nrises against the Lead Performer, Queen!{\i0}
+Dialogue: 0,0:23:37.67,0:23:42.96,Default,,0,0,0,,{\i1}A blade to supplant his superior closes in on Queen,\Nwho is preoccupied with the enemy raid!{\i0}
+Dialogue: 0,0:23:43.55,0:23:48.30,Default,,0,0,0,,On the next episode of One Piece!\N"A Risky Invitation! A Plot to Eliminate Queen!"
+Dialogue: 0,0:23:48.30,0:23:52.60,Default,,0,0,0,,I'm gonna become the King of the Pirates!

@@ -1,0 +1,364 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+
+
+Dialogue: 0,0:00:11.09,0:00:13.92,Default,,0000,0000,0000,,{\i1}Open the borderless map{\i0}
+Dialogue: 0,0:00:11.09,0:00:13.92,On Top,,0000,0000,0000,,{\i1}mugendai no chizu hiroge{\i0}
+Dialogue: 0,0:00:13.97,0:00:16.89,Default,,0000,0000,0000,,{\i1}Towards the place that has no end{\i0}
+Dialogue: 0,0:00:13.97,0:00:16.89,On Top,,0000,0000,0000,,{\i1}hateshinai ano basho e{\i0}
+Dialogue: 0,0:00:16.93,0:00:21.47,Default,,0000,0000,0000,,{\i1}Let's sail on, raise high the sails{\i0}
+Dialogue: 0,0:00:16.93,0:00:21.47,On Top,,0000,0000,0000,,{\i1}Let's sail on takaku ho wo agete{\i0}
+Dialogue: 0,0:00:21.52,0:00:24.23,Default,,0000,0000,0000,,{\i1}Catch the wind{\i0}
+Dialogue: 0,0:00:21.52,0:00:24.23,On Top,,0000,0000,0000,,{\i1}kaze ni nore{\i0}
+Dialogue: 0,0:00:29.86,0:00:33.74,Default,,0000,0000,0000,,{\i1}Don't give up, if I'm determined{\i0}
+Dialogue: 0,0:00:29.86,0:00:33.74,On Top,,0000,0000,0000,,{\i1}Don't give up kakugo kimetano nara{\i0}
+Dialogue: 0,0:00:33.78,0:00:36.99,Default,,0000,0000,0000,,{\i1}I'll never turn back{\i0}
+Dialogue: 0,0:00:33.78,0:00:36.99,On Top,,0000,0000,0000,,{\i1}hikikaeshi wa shinai sa{\i0}
+Dialogue: 0,0:00:37.03,0:00:40.28,Default,,0000,0000,0000,,{\i1}Laugh on through troubled waters{\i0}
+Dialogue: 0,0:00:37.03,0:00:40.28,On Top,,0000,0000,0000,,{\i1}waraitobase aranami{\i0}
+Dialogue: 0,0:00:40.53,0:00:45.08,Default,,0000,0000,0000,,{\i1}Shout it out, to save \Nyour spirit from breaking{\i0}
+Dialogue: 0,0:00:40.53,0:00:45.08,On Top,,0000,0000,0000,,{\i1}Shout it out kokoro kudakenai youni{\i0}
+Dialogue: 0,0:00:45.12,0:00:47.54,Default,,0000,0000,0000,,{\i1}Your friends are there for you{\i0}
+Dialogue: 0,0:00:45.12,0:00:47.54,On Top,,0000,0000,0000,,{\i1}nakama ga irun da{\i0}
+Dialogue: 0,0:00:47.58,0:00:53.96,Default,,0000,0000,0000,,{\i1}Hey, you don't ever need to act tough{\i0}
+Dialogue: 0,0:00:47.58,0:00:53.96,On Top,,0000,0000,0000,,{\i1}hora tsuyogari nante iranai itsudatte{\i0}
+Dialogue: 0,0:00:54.01,0:00:58.05,Default,,0000,0000,0000,,{\i1}Even when the darkness \Ntries to tear you apart{\i0}
+Dialogue: 0,0:00:54.01,0:00:58.05,On Top,,0000,0000,0000,,{\i1}yami ga hikisakou toshitemo{\i0}
+Dialogue: 0,0:00:58.09,0:00:59.35,Default,,0000,0000,0000,,{\i1}Come on, brave it out{\i0}
+Dialogue: 0,0:00:58.09,0:00:59.35,On Top,,0000,0000,0000,,{\i1}hora Brave it out{\i0}
+Dialogue: 0,0:00:59.39,0:01:00.85,Default,,0000,0000,0000,,{\i1}It's going to be all right{\i0}
+Dialogue: 0,0:00:59.39,0:01:00.85,On Top,,0000,0000,0000,,{\i1}daijoubu sa{\i0}
+Dialogue: 0,0:01:00.89,0:01:04.56,Default,,0000,0000,0000,,{\i1}Strong bonds will break through{\i0}
+Dialogue: 0,0:01:00.89,0:01:04.56,On Top,,0000,0000,0000,,{\i1}uchiyaburu saikyo no kizuna{\i0}
+Dialogue: 0,0:01:04.60,0:01:07.39,Default,,0000,0000,0000,,{\i1}Open the borderless map{\i0}
+Dialogue: 0,0:01:04.60,0:01:07.39,On Top,,0000,0000,0000,,{\i1}mugendai no chizu hiroge{\i0}
+Dialogue: 0,0:01:07.44,0:01:10.52,Default,,0000,0000,0000,,{\i1}Towards the place that has no end{\i0}
+Dialogue: 0,0:01:07.44,0:01:10.52,On Top,,0000,0000,0000,,{\i1}hateshinai ano basho e{\i0}
+Dialogue: 0,0:01:10.56,0:01:16.07,Default,,0000,0000,0000,,{\i1}Have the courage to take a step forward{\i0}
+Dialogue: 0,0:01:10.56,0:01:16.07,On Top,,0000,0000,0000,,{\i1}fumidase yuuki no ippo{\i0}
+Dialogue: 0,0:01:16.11,0:01:18.74,Default,,0000,0000,0000,,{\i1}Open the borderless map{\i0}
+Dialogue: 0,0:01:16.11,0:01:18.74,On Top,,0000,0000,0000,,{\i1}mugendai no chizu hiroge{\i0}
+Dialogue: 0,0:01:18.78,0:01:21.53,Default,,0000,0000,0000,,{\i1}The flag that called forth oaths{\i0}
+Dialogue: 0,0:01:18.78,0:01:21.53,On Top,,0000,0000,0000,,{\i1}chikai atsumeta hata{\i0}
+Dialogue: 0,0:01:21.58,0:01:24.20,Default,,0000,0000,0000,,{\i1}Keep fighting on{\i0}
+Dialogue: 0,0:01:21.58,0:01:24.20,On Top,,0000,0000,0000,,{\i1}tatakai tsudukete iku{\i0}
+Dialogue: 0,0:01:24.24,0:01:28.96,Default,,0000,0000,0000,,{\i1}Stay true to yourself{\i0}
+Dialogue: 0,0:01:24.24,0:01:28.96,On Top,,0000,0000,0000,,{\i1}"jibunjishin" tsuranuke{\i0}
+Dialogue: 0,0:01:29.00,0:01:33.30,Default,,0000,0000,0000,,{\i1}Seize it, dreamin' on{\i0}
+Dialogue: 0,0:01:29.00,0:01:33.30,On Top,,0000,0000,0000,,{\i1}tsukami toru Dreamin' on{\i0}
+Dialogue: 0,0:01:33.71,0:01:38.68,Default,,0000,0000,0000,,{\i1}I can't lose, I'll never run away{\i0}
+Dialogue: 0,0:01:33.71,0:01:38.68,On Top,,0000,0000,0000,,{\i1}makerarenai nige ya shinai{\i0}
+Dialogue: 0,0:01:39.34,0:01:42.18,Default,,0000,0000,0000,,{\i1}Transcend meetings and \Npartings and keep going{\i0}
+Dialogue: 0,0:01:39.34,0:01:42.18,On Top,,0000,0000,0000,,{\i1}deai wakare koe ikou{\i0}
+Dialogue: 0,0:01:42.22,0:01:46.52,Default,,0000,0000,0000,,{\i1}They're all treasures{\i0}
+Dialogue: 0,0:01:42.22,0:01:46.52,On Top,,0000,0000,0000,,{\i1}zenbu takaramono{\i0}
+Dialogue: 0,0:01:46.93,0:01:49.73,Default,,0000,0000,0000,,{\i1}Open the borderless map{\i0}
+Dialogue: 0,0:01:46.93,0:01:49.73,On Top,,0000,0000,0000,,{\i1}mugendai no chizu hiroge{\i0}
+Dialogue: 0,0:01:49.77,0:01:52.86,Default,,0000,0000,0000,,{\i1}Towards the place that has no end{\i0}
+Dialogue: 0,0:01:49.77,0:01:52.86,On Top,,0000,0000,0000,,{\i1}hateshinai ano basho e{\i0}
+Dialogue: 0,0:01:52.90,0:01:57.57,Default,,0000,0000,0000,,{\i1}Have the courage to take a step forward{\i0}
+Dialogue: 0,0:01:52.90,0:01:57.57,On Top,,0000,0000,0000,,{\i1}fumidase yuuki no ippo{\i0}
+Dialogue: 0,0:01:57.61,0:02:01.74,Default,,0000,0000,0000,,{\i1}Raise your fist{\i0}
+Dialogue: 0,0:01:57.61,0:02:01.74,On Top,,0000,0000,0000,,{\i1}ko wo agete{\i0}
+Dialogue: 0,0:02:12.92,0:02:13.59,Default,,0000,0000,0000,,Um...
+Dialogue: 0,0:02:14.59,0:02:15.50,Default,,0000,0000,0000,,What is it?
+Dialogue: 0,0:02:15.84,0:02:19.23,Default,,0000,0000,0000,,I want to find my older brother!
+Dialogue: 0,0:02:19.23,0:02:22.05,Default,,0000,0000,0000,,We were separated 20 years ago...
+Dialogue: 0,0:02:22.05,0:02:25.76,Default,,0000,0000,0000,,He might be in the Land of Wano now!
+Dialogue: 0,0:02:27.18,0:02:29.14,Default,,0000,0000,0000,,His name is...
+Dialogue: 0,0:02:30.44,0:02:32.40,Default,,0000,0000,0000,,Kozuki Momonosuke.
+Dialogue: 0,0:02:33.77,0:02:35.94,Default,,0000,0000,0000,,I'm his sister...
+Dialogue: 0,0:02:38.78,0:02:41.03,Default,,0000,0000,0000,,My name is Hiyori!
+Dialogue: 0,0:02:44.37,0:02:49.71,Default,,0000,0000,0000,,{\i1}"Get the Hang of It!\NThe Land of Wano's Haki - Ryuo!"{\i0}
+Dialogue: 0,0:02:58.76,0:02:59.97,Default,,0000,0000,0000,,Momonosuke's...
+Dialogue: 0,0:03:01.63,0:03:02.93,Default,,0000,0000,0000,,...sister?!
+Dialogue: 0,0:03:04.09,0:03:05.18,Default,,0000,0000,0000,,I thought so!
+Dialogue: 0,0:03:05.18,0:03:08.27,Default,,0000,0000,0000,,I am glad that I gathered \Nmy courage and said it!
+Dialogue: 0,0:03:09.10,0:03:11.10,Default,,0000,0000,0000,,I kind of took a chance.
+Dialogue: 0,0:03:12.48,0:03:14.44,Default,,0000,0000,0000,,You know my brother, don't you?!
+Dialogue: 0,0:03:15.02,0:03:16.86,Default,,0000,0000,0000,,And he is okay, right?!
+Dialogue: 0,0:03:16.86,0:03:19.20,Default,,0000,0000,0000,,Wait! Calm down!
+Dialogue: 0,0:03:19.20,0:03:21.03,Default,,0000,0000,0000,,I need to organize my thoughts.
+Dialogue: 0,0:03:22.99,0:03:26.79,Default,,0000,0000,0000,,These days, people are talking about\Nthe return of the Kozuki Clan.
+Dialogue: 0,0:03:26.79,0:03:32.50,Default,,0000,0000,0000,,At the same time, a strong and kind samurai\Nfrom overseas is here.
+Dialogue: 0,0:03:32.50,0:03:34.63,Default,,0000,0000,0000,,So I thought he might be my brother's ally!
+Dialogue: 0,0:03:36.13,0:03:39.84,Default,,0000,0000,0000,,Or are you an enemy who is after my brother?!
+Dialogue: 0,0:03:39.84,0:03:40.96,Default,,0000,0000,0000,,I'm his ally.
+Dialogue: 0,0:03:42.55,0:03:45.22,Default,,0000,0000,0000,,First of all, I'm his ally.
+Dialogue: 0,0:03:47.10,0:03:48.72,Default,,0000,0000,0000,,I am so relieved.
+Dialogue: 0,0:03:50.35,0:03:54.02,Default,,0000,0000,0000,,Do you know if Kin'emon is alive?
+Dialogue: 0,0:03:55.94,0:04:01.11,Default,,0000,0000,0000,,Are Kanjuro, Raizo,\Nand Kikunojo all with him?
+Dialogue: 0,0:04:01.11,0:04:02.65,Default,,0000,0000,0000,,Kikunojo?
+Dialogue: 0,0:04:03.86,0:04:05.61,Default,,0000,0000,0000,,Oh, you mean Kiku?
+Dialogue: 0,0:04:05.61,0:04:09.83,Default,,0000,0000,0000,,Yeah, but wait...\NSomething has me wondering.
+Dialogue: 0,0:04:10.33,0:04:12.62,Default,,0000,0000,0000,,Are you really Momo's sister?
+Dialogue: 0,0:04:16.25,0:04:17.96,Default,,0000,0000,0000,,Let me explain.
+Dialogue: 0,0:04:20.92,0:04:22.46,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:04:22.46,0:04:24.44,Default,,0000,0000,0000,,You're right.
+Dialogue: 0,0:04:24.44,0:04:28.43,Default,,0000,0000,0000,,Momo from 20 years ago\Nappears to be 8 years old,
+Dialogue: 0,0:04:28.43,0:04:34.20,Default,,0000,0000,0000,,and you're supposed to be his younger sister,\Nbut you aged 20 years and you're now 26...
+Dialogue: 0,0:04:34.20,0:04:35.56,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:04:35.56,0:04:37.27,Default,,0000,0000,0000,,By the way...
+Dialogue: 0,0:04:40.77,0:04:43.32,Default,,0000,0000,0000,,Is it okay for her to hear all of this?
+Dialogue: 0,0:04:43.61,0:04:47.07,Default,,0000,0000,0000,,It's okay! Because I already knew!
+Dialogue: 0,0:04:50.87,0:04:54.06,Default,,0000,0000,0000,,It was a secret between Big Sis and me!
+Dialogue: 0,0:04:54.06,0:04:58.79,Default,,0000,0000,0000,,Otoko is one of the few close friends\Nwho knows my true identity.
+Dialogue: 0,0:05:00.96,0:05:05.17,Default,,0000,0000,0000,,Her cheerfulness sustains me day-to-day...
+Dialogue: 0,0:05:05.51,0:05:10.55,Default,,0000,0000,0000,,20 years ago, I was still \Na little girl like her...
+Dialogue: 0,0:05:14.43,0:05:18.23,Default,,0000,0000,0000,,...but I will never forget\Nwhat happened that day.
+Dialogue: 0,0:05:23.69,0:05:26.57,Default,,0000,0000,0000,,Leave... to the future!
+Dialogue: 0,0:05:28.91,0:05:31.91,Default,,0000,0000,0000,,Mother, please don't do that!
+Dialogue: 0,0:05:31.91,0:05:36.00,Default,,0000,0000,0000,,Mother! Mother!
+Dialogue: 0,0:05:38.00,0:05:42.34,Default,,0000,0000,0000,,I didn't know what was going on\Nand I was confused.
+Dialogue: 0,0:05:42.34,0:05:44.85,Default,,0000,0000,0000,,In the blazing fire,
+Dialogue: 0,0:05:44.85,0:05:49.55,Default,,0000,0000,0000,,my brother and the others\Ndisappeared right before my eyes...
+Dialogue: 0,0:05:55.89,0:05:59.15,Default,,0000,0000,0000,,On the same day, I lost my father, Oden,
+Dialogue: 0,0:05:59.15,0:06:00.69,Default,,0000,0000,0000,,and even my mother...
+Dialogue: 0,0:06:01.15,0:06:04.43,Default,,0000,0000,0000,,That day, I suddenly lost everything.
+Dialogue: 0,0:06:04.43,0:06:08.58,Default,,0000,0000,0000,,I was told that my brother would come back\N20 years later,
+Dialogue: 0,0:06:08.58,0:06:14.45,Default,,0000,0000,0000,,but I could not hold out hope for\Nsuch an uncertain thing...
+Dialogue: 0,0:06:15.12,0:06:18.96,Default,,0000,0000,0000,,I did not have the will \Nto live all those years.
+Dialogue: 0,0:06:20.25,0:06:23.60,Default,,0000,0000,0000,,Why didn't they make you cross through time\Nwith the others?
+Dialogue: 0,0:06:23.60,0:06:28.97,Default,,0000,0000,0000,,In case something happened\Neither to my brother or to me,
+Dialogue: 0,0:06:28.97,0:06:32.14,Default,,0000,0000,0000,,they did not want the \Nbloodline of Kozuki to end.
+Dialogue: 0,0:06:32.43,0:06:35.14,Default,,0000,0000,0000,,That's too cruel...
+Dialogue: 0,0:06:35.14,0:06:38.73,Default,,0000,0000,0000,,But my father's retainer,
+Dialogue: 0,0:06:39.06,0:06:44.57,Default,,0000,0000,0000,,Kawamatsu the Kappa\Nsupported me emotionally with patience and raised me.
+Dialogue: 0,0:06:44.57,0:06:45.52,Default,,0000,0000,0000,,Kappa?!
+Dialogue: 0,0:06:45.52,0:06:46.91,Default,,0000,0000,0000,,Indeed.
+Dialogue: 0,0:06:46.91,0:06:53.20,Default,,0000,0000,0000,,It is hard to believe that those creatures exist,\Nbut he takes great pride in being one...
+Dialogue: 0,0:06:54.12,0:06:58.01,Default,,0000,0000,0000,,{\i1}On the day that the castle burned,\Nwe were surrounded by the enemy,{\i0}
+Dialogue: 0,0:06:58.01,0:07:02.71,Default,,0000,0000,0000,,{\i1}but we escaped from the moat\Nthrough a drainage channel without being seen.{\i0}
+Dialogue: 0,0:07:02.71,0:07:05.54,Default,,0000,0000,0000,,Princess! Please be patient!
+Dialogue: 0,0:07:09.17,0:07:12.93,Default,,0000,0000,0000,,{\i1}After losing my father, mother, and brother,{\i0}
+Dialogue: 0,0:07:12.93,0:07:18.39,Default,,0000,0000,0000,,{\i1}I lost my voice from shock,\Nbut he always cheered me up.{\i0}
+Dialogue: 0,0:07:18.39,0:07:21.57,Default,,0000,0000,0000,,Princess! This is the Kappa Dance!
+Dialogue: 0,0:07:21.57,0:07:26.37,Default,,0000,0000,0000,,{\i1}Come on!\NKappappa, kappappa, kappappa and pa!{\i0}
+Dialogue: 0,0:07:26.37,0:07:29.11,Default,,0000,0000,0000,,{\i1}Kappappa, kappappa...{\i0}
+Dialogue: 0,0:07:29.11,0:07:32.24,Default,,0000,0000,0000,,Go ahead and eat, princess.
+Dialogue: 0,0:07:36.83,0:07:39.39,Default,,0000,0000,0000,,You are hungry, too, aren't you?
+Dialogue: 0,0:07:39.39,0:07:45.83,Default,,0000,0000,0000,,No, I have a little indigestion...\NThat's why it's growling...
+Dialogue: 0,0:07:46.21,0:07:50.55,Default,,0000,0000,0000,,Please... Please eat at least half.
+Dialogue: 0,0:07:50.55,0:07:55.43,Default,,0000,0000,0000,,No, no, I found a grilled fish\Nswimming in the river earlier.
+Dialogue: 0,0:07:59.77,0:08:01.79,Default,,0000,0000,0000,,A grilled fish in the river?
+Dialogue: 0,0:08:01.79,0:08:02.94,Default,,0000,0000,0000,,That's right.
+Dialogue: 0,0:08:03.48,0:08:08.61,Default,,0000,0000,0000,,I filleted it and ate it already.
+Dialogue: 0,0:08:10.03,0:08:14.78,Default,,0000,0000,0000,,{\i1}He did not eat much himself,\Nbut he tried to feed me...{\i0}
+Dialogue: 0,0:08:15.45,0:08:20.38,Default,,0000,0000,0000,,Thanks to kind Kawamatsu\Nprotecting me with all his soul,
+Dialogue: 0,0:08:20.38,0:08:23.54,Default,,0000,0000,0000,,I gradually began to laugh again.
+Dialogue: 0,0:08:24.42,0:08:26.21,Default,,0000,0000,0000,,Where's he now?
+Dialogue: 0,0:08:26.92,0:08:30.81,Default,,0000,0000,0000,,I think when I was about 13,
+Dialogue: 0,0:08:30.81,0:08:32.46,Default,,0000,0000,0000,,we were separated...
+Dialogue: 0,0:08:33.92,0:08:38.94,Default,,0000,0000,0000,,But Kawamatsu is a strong samurai,
+Dialogue: 0,0:08:38.94,0:08:44.31,Default,,0000,0000,0000,,so I am sure that he is waiting for\Nthe day of the great battle.
+Dialogue: 0,0:08:45.48,0:08:48.94,Default,,0000,0000,0000,,I want to see him as well as the others...
+Dialogue: 0,0:08:48.94,0:08:52.82,Default,,0000,0000,0000,,Big Sis! I want to see a kappa, too!
+Dialogue: 0,0:08:52.82,0:08:56.49,Default,,0000,0000,0000,,{\i1}Kappa, kappa, kappappa!{\i0}
+Dialogue: 0,0:08:58.74,0:09:00.08,Default,,0000,0000,0000,,Uh-huh!
+Dialogue: 0,0:09:00.62,0:09:01.66,Default,,0000,0000,0000,,Zorojuro-{\i1}san{\i0}.
+Dialogue: 0,0:09:02.95,0:09:07.94,Default,,0000,0000,0000,,Who else is there preparing \Nfor the great battle?
+Dialogue: 0,0:09:07.94,0:09:09.88,Default,,0000,0000,0000,,Well...
+Dialogue: 0,0:09:10.59,0:09:12.17,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:09:12.17,0:09:15.23,Default,,0000,0000,0000,,The doggy and the kitty are there, too?!
+Dialogue: 0,0:09:15.23,0:09:16.22,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:09:16.22,0:09:21.53,Default,,0000,0000,0000,,I heard that they were both dead,\Nso I thought I would never see them again!
+Dialogue: 0,0:09:21.53,0:09:26.44,Default,,0000,0000,0000,,Maybe Cat Viper hasn't arrived\Nat the Land of Wano yet...
+Dialogue: 0,0:09:29.52,0:09:31.15,Default,,0000,0000,0000,,What are you doing?
+Dialogue: 0,0:09:31.15,0:09:33.36,Default,,0000,0000,0000,,I am very, very happy...
+Dialogue: 0,0:09:39.66,0:09:41.58,Default,,0000,0000,0000,,You're funny, Big Sis!
+Dialogue: 0,0:09:45.91,0:09:47.96,Default,,0000,0000,0000,,But I will not cry!
+Dialogue: 0,0:09:48.50,0:09:50.79,Default,,0000,0000,0000,,Because I am a samurai's daughter!
+Dialogue: 0,0:09:50.79,0:09:53.68,Default,,0000,0000,0000,,If the doggy and the kitty will be there,
+Dialogue: 0,0:09:53.68,0:09:58.18,Default,,0000,0000,0000,,it's possible that all members of the Akazaya Nine\Ncould come together!
+Dialogue: 0,0:09:58.18,0:09:59.76,Default,,0000,0000,0000,,I don't know...
+Dialogue: 0,0:10:00.39,0:10:02.01,Default,,0000,0000,0000,,Kin'emon.
+Dialogue: 0,0:10:02.47,0:10:04.18,Default,,0000,0000,0000,,Kanjuro.
+Dialogue: 0,0:10:04.77,0:10:06.52,Default,,0000,0000,0000,,Raizo.
+Dialogue: 0,0:10:07.27,0:10:09.19,Default,,0000,0000,0000,,Okiku.
+Dialogue: 0,0:10:09.81,0:10:11.65,Default,,0000,0000,0000,,Dogstorm.
+Dialogue: 0,0:10:12.36,0:10:14.19,Default,,0000,0000,0000,,Cat Viper.
+Dialogue: 0,0:10:16.40,0:10:24.37,On Top,,0000,0000,0000,,AKAZAYA NINE
+Dialogue: 0,0:10:17.78,0:10:22.88,Default,,0000,0000,0000,,All we know is those six and Momonosuke.
+Dialogue: 0,0:10:22.88,0:10:26.31,Default,,0000,0000,0000,,We haven't met the other three yet.
+Dialogue: 0,0:10:26.31,0:10:30.51,Default,,0000,0000,0000,,Those three are Kawamatsu \Nwho I told you about,
+Dialogue: 0,0:10:29.29,0:10:31.50,On Top,,0000,0000,0000,,KAWAMATSU   DENJIRO
+Dialogue: 0,0:10:30.51,0:10:33.04,Default,,0000,0000,0000,,Denjiro, and Ashura Doji.
+Dialogue: 0,0:10:31.54,0:10:33.00,On Top,,0000,0000,0000,,ASHURA DOJI
+Dialogue: 0,0:10:33.34,0:10:39.51,Default,,0000,0000,0000,,I do not know where they are\Nor if they are safe...
+Dialogue: 0,0:10:40.09,0:10:44.90,Default,,0000,0000,0000,,But everyone is talking about this flyer\Nin the capital now,
+Dialogue: 0,0:10:44.90,0:10:47.39,Default,,0000,0000,0000,,so I bet they will show up!
+Dialogue: 0,0:10:47.68,0:10:51.15,Default,,0000,0000,0000,,Is that the flyer we handed out\Nto the rebels?
+Dialogue: 0,0:10:51.15,0:10:52.48,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:10:52.48,0:10:58.57,Default,,0000,0000,0000,,Thanks to the uproar,\Ninformation has spread very fast and that's a good thing,
+Dialogue: 0,0:10:58.57,0:11:01.03,Default,,0000,0000,0000,,but it's obviously unfavorable for us...
+Dialogue: 0,0:11:01.32,0:11:05.95,Default,,0000,0000,0000,,...that the rendezvous spot leaked out\Nand our allies have been caught.
+Dialogue: 0,0:11:05.95,0:11:08.47,Default,,0000,0000,0000,,I wonder what's gonna happen.
+Dialogue: 0,0:11:08.47,0:11:10.21,Default,,0000,0000,0000,,It will be all right.
+Dialogue: 0,0:11:10.96,0:11:13.58,Default,,0000,0000,0000,,I believe so.
+Dialogue: 0,0:11:13.58,0:11:15.00,Default,,0000,0000,0000,,Well...
+Dialogue: 0,0:11:17.21,0:11:23.01,Default,,0000,0000,0000,,Too many captains sink the ship.\NI'm gonna stop fretting...
+Dialogue: 0,0:11:23.01,0:11:24.44,Default,,0000,0000,0000,,That's right!
+Dialogue: 0,0:11:24.44,0:11:28.52,Default,,0000,0000,0000,,Before anything else, I want you to get well!
+Dialogue: 0,0:11:28.52,0:11:30.70,Default,,0000,0000,0000,,Now, get some rest.
+Dialogue: 0,0:11:30.70,0:11:33.31,Default,,0000,0000,0000,,Yeah, you don't have to tell me...
+Dialogue: 0,0:11:38.94,0:11:41.45,Default,,0000,0000,0000,,Otoko, this is miracle!
+Dialogue: 0,0:11:42.53,0:11:44.16,Default,,0000,0000,0000,,I am so happy!
+Dialogue: 0,0:11:46.91,0:11:49.24,Default,,0000,0000,0000,,My brother is alive!
+Dialogue: 0,0:11:50.83,0:11:52.79,Default,,0000,0000,0000,,I'm happy for you, Big Sis!
+Dialogue: 0,0:11:56.09,0:11:57.50,Default,,0000,0000,0000,,I'm so happy!
+Dialogue: 0,0:12:00.59,0:12:02.74,Default,,0000,0000,0000,,I'm happy for you, Big Sis!
+Dialogue: 0,0:12:02.74,0:12:05.55,Default,,0000,0000,0000,,Toko, this is great!
+Dialogue: 0,0:12:08.18,0:12:11.60,Default,,0000,0000,0000,,{\i1}Can't they shut up?\NI can't sleep...{\i0}
+Dialogue: 0,0:12:17.48,0:12:19.15,Default,,0000,0000,0000,,But he is 8 years old!
+Dialogue: 0,0:12:19.15,0:12:21.03,Default,,0000,0000,0000,,That's so strange!
+Dialogue: 0,0:12:21.44,0:12:24.00,Default,,0000,0000,0000,,He is still a child.
+Dialogue: 0,0:12:24.00,0:12:28.12,Default,,0000,0000,0000,,I guess Kin'emon and the others\Nhave not changed since 20 years ago, either.
+Dialogue: 0,0:12:28.12,0:12:31.80,Default,,0000,0000,0000,,I wonder how I will react when I see them.
+Dialogue: 0,0:12:31.80,0:12:35.59,Default,,0000,0000,0000,,Maybe I better not see them\Nbefore the great battle.
+Dialogue: 0,0:12:35.59,0:12:40.09,Default,,0000,0000,0000,,I should not interfere \Nwith a samurai battle...
+Dialogue: 0,0:12:40.42,0:12:41.88,Default,,0000,0000,0000,,What do you think, Otoko?
+Dialogue: 0,0:12:54.89,0:12:57.65,Default,,0000,0000,0000,,Oh, no! I have to get more wood!
+Dialogue: 0,0:13:13.70,0:13:16.87,Default,,0000,0000,0000,,I wish we had at least one comforter...
+Dialogue: 0,0:13:36.77,0:13:39.54,Default,,0000,0000,0000,,That wasn't it! I can't do it right!
+Dialogue: 0,0:13:39.54,0:13:40.98,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:13:41.52,0:13:45.57,Default,,0000,0000,0000,,You sent them flying. \NWasn't that good enough?
+Dialogue: 0,0:13:46.32,0:13:47.99,Default,,0000,0000,0000,,No, it wasn't, old man!
+Dialogue: 0,0:13:48.28,0:13:52.16,Default,,0000,0000,0000,,I wanna throw a punch that sends enemies flying\Nwithout a touch!
+Dialogue: 0,0:13:52.16,0:13:54.09,Default,,0000,0000,0000,,That way,
+Dialogue: 0,0:13:54.09,0:13:58.37,Default,,0000,0000,0000,,I think I can break Kaido's tough scales!
+Dialogue: 0,0:13:58.37,0:14:01.13,Default,,0000,0000,0000,,A punch that sends enemies flying\Nwithout a touch?
+Dialogue: 0,0:14:01.13,0:14:04.89,Default,,0000,0000,0000,,Yeah. I won't know if it works\Nuntil I actually try.
+Dialogue: 0,0:14:04.89,0:14:07.47,Default,,0000,0000,0000,,But I saw it before...
+Dialogue: 0,0:14:08.30,0:14:10.14,Default,,0000,0000,0000,,Both Rayleigh...
+Dialogue: 0,0:14:11.26,0:14:13.72,Default,,0000,0000,0000,,...and that battle-axe guy...
+Dialogue: 0,0:14:14.85,0:14:17.31,Default,,0000,0000,0000,,...used the same Haki of the Color of Arms.
+Dialogue: 0,0:14:17.64,0:14:19.56,Default,,0000,0000,0000,,How is theirs different from mine?!
+Dialogue: 0,0:14:19.56,0:14:22.52,Default,,0000,0000,0000,,Haki must be a foreign concept.
+Dialogue: 0,0:14:22.98,0:14:24.57,Default,,0000,0000,0000,,Do you know anything?!
+Dialogue: 0,0:14:24.57,0:14:29.53,Default,,0000,0000,0000,,In the Land of Wano, there is a concept of power\Nthat will cover your blade via your body.
+Dialogue: 0,0:14:30.36,0:14:33.63,Default,,0000,0000,0000,,A good sword will cut even iron\Nwhen you need it to,
+Dialogue: 0,0:14:33.63,0:14:36.75,Default,,0000,0000,0000,,but when you don't,\Nit won't even cut a sheet of paper.
+Dialogue: 0,0:14:36.75,0:14:39.46,Default,,0000,0000,0000,,It's all up to the swordsman!
+Dialogue: 0,0:14:50.34,0:14:51.84,Default,,0000,0000,0000,,Old man.
+Dialogue: 0,0:14:51.84,0:14:54.72,Default,,0000,0000,0000,,You fool! Are you stepping \Nforward to get killed?!
+Dialogue: 0,0:14:55.68,0:14:57.74,Default,,0000,0000,0000,,Straw hat man.
+Dialogue: 0,0:14:57.74,0:15:02.86,Default,,0000,0000,0000,,Watch as I show the skill\Nthat I used to hone through sword fights.
+Dialogue: 0,0:15:10.28,0:15:11.11,Default,,0000,0000,0000,,Old man!
+Dialogue: 0,0:15:14.28,0:15:17.04,Default,,0000,0000,0000,,Straw hat man! Give me directions!
+Dialogue: 0,0:15:17.75,0:15:18.58,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:15:37.18,0:15:41.06,Default,,0000,0000,0000,,Don't forget that you suspected my crew.
+Dialogue: 0,0:15:44.36,0:15:50.07,Default,,0000,0000,0000,,How can people who don't trust each other\Nfight together in a deadly battle?!
+Dialogue: 0,0:15:57.99,0:16:00.91,Default,,0000,0000,0000,,Hey, wait! Tra-guy!
+Dialogue: 0,0:16:07.54,0:16:10.46,Default,,0000,0000,0000,,Tra-guy left in a rage.
+Dialogue: 0,0:16:10.80,0:16:12.80,Default,,0000,0000,0000,,Is he going to come back?
+Dialogue: 0,0:16:13.18,0:16:16.49,Default,,0000,0000,0000,,Damn Shinobu! How could she say that?!
+Dialogue: 0,0:16:16.49,0:16:19.39,Default,,0000,0000,0000,,But you know why Shinobu-{\i1}chan{\i0} grew impatient!
+Dialogue: 0,0:16:19.39,0:16:24.85,Default,,0000,0000,0000,,Kaido took over her country\Nand screwed up her life.
+Dialogue: 0,0:16:24.85,0:16:29.73,Default,,0000,0000,0000,,But she has endured it\Nand waited 20 years to fight back!
+Dialogue: 0,0:16:29.73,0:16:31.25,Default,,0000,0000,0000,,I know.
+Dialogue: 0,0:16:31.25,0:16:36.20,Default,,0000,0000,0000,,But even if Bepo and the others told them about the plan,\NI wouldn't blame them.
+Dialogue: 0,0:16:36.20,0:16:38.47,Default,,0000,0000,0000,,Because you'd do so, right?
+Dialogue: 0,0:16:38.47,0:16:40.87,Default,,0000,0000,0000,,I think you'd talk, too.
+Dialogue: 0,0:16:42.87,0:16:44.46,Default,,0000,0000,0000,,Torture, huh?
+Dialogue: 0,0:16:45.54,0:16:46.98,Default,,0000,0000,0000,,Over in three seconds.
+Dialogue: 0,0:16:46.98,0:16:48.48,Default,,0000,0000,0000,,That's too short!
+Dialogue: 0,0:16:48.48,0:16:49.55,Default,,0000,0000,0000,,Go away!
+Dialogue: 0,0:16:50.34,0:16:52.97,Default,,0000,0000,0000,,I don't need you lowly \Nshits to take care of me!
+Dialogue: 0,0:16:53.22,0:16:57.64,Default,,0000,0000,0000,,What's this? Yelling in Ebisu Town\Nthat is always filled with laughter?
+Dialogue: 0,0:17:00.39,0:17:03.24,Default,,0000,0000,0000,,You must be that monster - bean-washing hag!
+Dialogue: 0,0:17:03.24,0:17:04.20,Default,,0000,0000,0000,,Stop it!
+Dialogue: 0,0:17:04.20,0:17:10.44,Default,,0000,0000,0000,,They're new here! They fled the capital\Nand arrived yesterday.
+Dialogue: 0,0:17:10.44,0:17:12.00,Default,,0000,0000,0000,,What are you looking at?!
+Dialogue: 0,0:17:12.00,0:17:14.28,Default,,0000,0000,0000,,Go away!
+Dialogue: 0,0:17:26.92,0:17:28.39,Default,,0000,0000,0000,,Fled the capital?
+Dialogue: 0,0:17:28.39,0:17:29.34,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:17:29.34,0:17:35.47,Default,,0000,0000,0000,,Only people who are loyal to the Shogun\Nand earn money can live in the capital.
+Dialogue: 0,0:17:35.47,0:17:41.18,Default,,0000,0000,0000,,I heard that those men were\Ndoing pretty bad things.
+Dialogue: 0,0:17:43.31,0:17:44.98,Default,,0000,0000,0000,,Bad things?
+Dialogue: 0,0:17:45.23,0:17:46.10,Default,,0000,0000,0000,,First...
+Dialogue: 0,0:17:46.10,0:17:48.10,Default,,0000,0000,0000,,--...the underling, Bungoh...\N--You little shits!
+Dialogue: 0,0:17:49.90,0:17:53.53,Default,,0000,0000,0000,,He set fires throughout the town\Nevery night.
+Dialogue: 0,0:17:53.53,0:17:57.95,Default,,0000,0000,0000,,But he didn't get punished\Nbecause he paid off officials.
+Dialogue: 0,0:17:58.45,0:18:01.49,On Top,,0000,0000,0000,,BUNGOH - AN ARSONIST
+Dialogue: 0,0:18:01.58,0:18:02.93,Default,,0000,0000,0000,,An arsonist?!
+Dialogue: 0,0:18:02.93,0:18:05.25,Default,,0000,0000,0000,,Why bother paying off officials\Nto start fires?!
+Dialogue: 0,0:18:05.25,0:18:08.96,Default,,0000,0000,0000,,Someone was making money off of it...
+Dialogue: 0,0:18:10.75,0:18:15.01,Default,,0000,0000,0000,,He's a lumber dealer\Nwho sold lumber for rebuilding houses.
+Dialogue: 0,0:18:15.01,0:18:16.97,Default,,0000,0000,0000,,His name is Bongoh.
+Dialogue: 0,0:18:16.22,0:18:19.01,On Top,,0000,0000,0000,,BONGOH - A LUMBER DEALER
+Dialogue: 0,0:18:19.09,0:18:19.99,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:18:19.99,0:18:21.93,Default,,0000,0000,0000,,There's more to it.
+Dialogue: 0,0:18:22.97,0:18:27.18,Default,,0000,0000,0000,,The other man exploited mourning people\Nwho lost their family members in the fire,
+Dialogue: 0,0:18:27.18,0:18:29.36,Default,,0000,0000,0000,,and charged them an outrageous price.
+Dialogue: 0,0:18:29.36,0:18:31.86,Default,,0000,0000,0000,,He's a priest and undertaker named Bingoh.
+Dialogue: 0,0:18:32.27,0:18:35.19,On Top,,0000,0000,0000,,BINGOH - A PRIEST AND UNDERTAKER
+Dialogue: 0,0:18:35.36,0:18:36.88,Default,,0000,0000,0000,,Wait a minute!
+Dialogue: 0,0:18:36.88,0:18:39.28,Default,,0000,0000,0000,,Don't tell me those three were...
+Dialogue: 0,0:18:39.28,0:18:45.16,Default,,0000,0000,0000,,That's right. Bingoh, Bongoh, and Bungoh\Nwere in cahoots.
+Dialogue: 0,0:18:46.62,0:18:47.72,Default,,0000,0000,0000,,I thought so.
+Dialogue: 0,0:18:47.72,0:18:49.08,Default,,0000,0000,0000,,That's terrible!
+Dialogue: 0,0:18:49.08,0:18:53.04,Default,,0000,0000,0000,,Right, but no matter how \Nmuch crime they committed,
+Dialogue: 0,0:18:53.04,0:18:57.67,Default,,0000,0000,0000,,they bought off officials,\Nso they escaped arrest.
+Dialogue: 0,0:18:57.67,0:19:00.48,Default,,0000,0000,0000,,They pretended to be good people,
+Dialogue: 0,0:19:00.48,0:19:03.55,Default,,0000,0000,0000,,but they're actually the \Nworst kind of people.
+Dialogue: 0,0:19:03.55,0:19:06.10,Default,,0000,0000,0000,,Those ruffians didn't receive\Nany divine punishment?!
+Dialogue: 0,0:19:08.10,0:19:09.60,Default,,0000,0000,0000,,But the funny thing is...
+Dialogue: 0,0:19:09.60,0:19:15.99,Default,,0000,0000,0000,,...all three of them fell in love with\Nthe incredibly beautiful Komurasaki the Oiran...
+Dialogue: 0,0:19:15.99,0:19:19.32,Default,,0000,0000,0000,,...who died yesterday!
+Dialogue: 0,0:19:19.32,0:19:24.83,Default,,0000,0000,0000,,All three of them spent tons of money on her\Nand went broke!
+Dialogue: 0,0:19:24.83,0:19:28.70,Default,,0000,0000,0000,,So the gods really watch over us!\NThose are the rumors!
+Dialogue: 0,0:19:28.70,0:19:30.35,Default,,0000,0000,0000,,That's a good story.
+Dialogue: 0,0:19:30.35,0:19:33.50,Default,,0000,0000,0000,,But that's too specific to be rumor.
+Dialogue: 0,0:19:33.83,0:19:35.97,Default,,0000,0000,0000,,It must be a true story.
+Dialogue: 0,0:19:35.97,0:19:39.81,Default,,0000,0000,0000,,In that case, that Oiran knew who they were\Nand tricked them.
+Dialogue: 0,0:19:39.81,0:19:41.51,Default,,0000,0000,0000,,Well done!
+Dialogue: 0,0:19:41.51,0:19:45.39,Default,,0000,0000,0000,,Who {\i1}is{\i0} Komurasaki?
+Dialogue: 0,0:19:45.39,0:19:47.39,Default,,0000,0000,0000,,Oh! Them!
+Dialogue: 0,0:19:48.27,0:19:50.52,Default,,0000,0000,0000,,Yeah! I remember!
+Dialogue: 0,0:19:55.94,0:19:59.99,Default,,0000,0000,0000,,They were making a scene\Nat the Oiran's procession!
+Dialogue: 0,0:20:00.44,0:20:05.00,Default,,0000,0000,0000,,Yasu-{\i1}san{\i0} provided them a place to live\Nand took care of them,
+Dialogue: 0,0:20:05.00,0:20:08.20,Default,,0000,0000,0000,,but they still act arrogant\Nand are out of control.
+Dialogue: 0,0:20:08.20,0:20:13.58,Default,,0000,0000,0000,,Tonoyasu is such a caring man.\NHe even took care of those vermin!
+Dialogue: 0,0:20:47.57,0:20:50.12,Default,,0000,0000,0000,,Straw hat man! Give me directions!
+Dialogue: 0,0:20:50.91,0:20:51.75,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:20:59.29,0:21:02.01,Default,,0000,0000,0000,,He'll swing down his right sword full force!
+Dialogue: 0,0:21:03.26,0:21:04.43,Default,,0000,0000,0000,,I got it!
+Dialogue: 0,0:21:18.52,0:21:21.23,Default,,0000,0000,0000,,You damn geezer!
+Dialogue: 0,0:22:04.15,0:22:05.90,Default,,0000,0000,0000,,He knocked him back!
+Dialogue: 0,0:22:17.96,0:22:18.92,Default,,0000,0000,0000,,Old man...
+Dialogue: 0,0:22:19.71,0:22:23.88,Default,,0000,0000,0000,,Old Man Hyo took the Gifter down!
+Dialogue: 0,0:22:23.88,0:22:25.26,Default,,0000,0000,0000,,Alpaca-man!
+Dialogue: 0,0:22:28.22,0:22:33.68,Default,,0000,0000,0000,,That dotard...\NI thought he had one foot in the grave.
+Dialogue: 0,0:22:34.14,0:22:36.81,Default,,0000,0000,0000,,But he's still pretty young!
+Dialogue: 0,0:22:39.44,0:22:41.65,Default,,0000,0000,0000,,Could Old Man Hyo actually be...
+Dialogue: 0,0:22:41.65,0:22:44.36,Default,,0000,0000,0000,,...the famous Hyogoro the Flower?!
+Dialogue: 0,0:22:47.82,0:22:49.28,Default,,0000,0000,0000,,Straw hat man...
+Dialogue: 0,0:22:51.16,0:22:55.16,Default,,0000,0000,0000,,If this is something that you want to do,
+Dialogue: 0,0:22:55.83,0:22:59.33,Default,,0000,0000,0000,,maybe I can help you a little bit.
+Dialogue: 0,0:23:04.21,0:23:05.84,Default,,0000,0000,0000,,Teach me!
+Dialogue: 0,0:23:07.38,0:23:09.63,Default,,0000,0000,0000,,That's exactly it!
+Dialogue: 0,0:23:18.39,0:23:24.90,Default,,0000,0000,0000,,{\i1}To master Ryuo and break out of the labor camp,\NLuffy lets his fighting spirit burn even more!{\i0}
+Dialogue: 0,0:23:24.90,0:23:31.11,Default,,0000,0000,0000,,{\i1}Meanwhile, other prisoners who wish to rebel against Orochi\Nand Tonoyasu join the raid operation!{\i0}
+Dialogue: 0,0:23:31.11,0:23:35.99,Default,,0000,0000,0000,,{\i1}More allies to take down Kaido come together\Nand the road of hope starts opening!{\i0}
+Dialogue: 0,0:23:36.20,0:23:40.72,Default,,0000,0000,0000,,On the next episode of One Piece!\N"Tonoyasu! Ebisu Town's Most Loved!"
+Dialogue: 0,0:23:40.72,0:23:44.42,Default,,0000,0000,0000,,I'm gonna become the King of the Pirates!
+Dialogue: 0,0:23:44.42,0:23:46.42,Default,,0000,0000,0000,,
+Dialogue: 0,0:23:46.42,0:23:48.42,On Top,,0000,0000,0000,,

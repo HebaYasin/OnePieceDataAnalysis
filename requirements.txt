@@ -1,0 +1,15 @@
+beautifulsoup4
+huggingface_hub
+ipykernel
+jupyterlab
+matplotlib
+networkx
+nltk
+numpy
+pandas
+pyvis
+requests
+spacy
+torch
+transformers
+scipy
